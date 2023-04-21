@@ -1,1 +1,94 @@
-[  {"subRock": "Alternative rock"},  {"subRock": "Blues rock"},  {"subRock": "Electronic rock"},  {"subRock": "Experimental rock"},  {"subRock": "Glam rock"},  {"subRock": "Gothic rock"},  {"subRock": "Hard rock"},  {"subRock": "Hardcore punk"},  {"subRock": "Indie rock"},  {"subRock": "Math rock"},  {"subRock": "Melodic rock"},  {"subRock": "Neo-progressive rock"},  {"subRock": "Noise rock"},  {"subRock": "Occult rock"},  {"subRock": "Post-grunge"},  {"subRock": "Post-hardcore"},  {"subRock": "Post-rock"},  {"subRock": "Progressive rock"},  {"subRock": "Psychedelic rock"},  {"subRock": "Shoegaze"},  {"subRock": "Stoner rock"},  {"subRock": "Heavy progressive rock"},  {"subRock": "Crossover progressive rock"}]
+[
+    {
+      "subRock": "Alternative rock",
+      "descRock": "Rock 1 +"
+    },
+    {
+      "subRock": "Blues rock",
+      "descRock": "2"
+    },
+    {
+      "subRock": "Electronic rock",
+      "descRock": "3"
+    },
+    {
+      "subRock": "Experimental rock",
+      "descRock": "4"
+    },
+    {
+      "subRock": "Glam rock",
+      "descRock": "5"
+    },
+    {
+      "subRock": "Gothic rock",
+      "descRock": "6"
+    },
+    {
+      "subRock": "Hard rock",
+      "descRock": "7"
+    },
+    {
+      "subRock": "Hardcore punk",
+      "descRock": "8"
+    },
+    {
+      "subRock": "Indie rock",
+      "descRock": "9"
+    },
+    {
+      "subRock": "Math rock",
+      "descRock": "10"
+    },
+    {
+      "subRock": "Melodic rock",
+      "descRock": "11"
+    },
+    {
+      "subRock": "Neo-progressive rock",
+      "descRock": "12"
+    },
+    {
+      "subRock": "Noise rock",
+      "descRock": "13"
+    },
+    {
+      "subRock": "Occult rock",
+      "descRock": "14"
+    },
+    {
+      "subRock": "Post-grunge",
+      "descRock": "15"
+    },
+    {
+      "subRock": "Post-hardcore",
+      "descRock": "16"
+    },
+    {
+      "subRock": "Post-rock",
+      "descRock": "17"
+    },
+    {
+      "subRock": "Progressive rock",
+      "descRock": "18"
+    },
+    {
+      "subRock": "Psychedelic rock",
+      "descRock": "19"
+    },
+    {
+      "subRock": "Shoegaze",
+      "descRock": "20"
+    },
+    {
+      "subRock": "Stoner rock",
+      "descRock": "21"
+    },
+    {
+      "subRock": "Heavy progressive rock",
+      "descRock": "22"
+    },
+    {
+      "subRock": "Crossover progressive rock",
+      "descRock": "23"
+    }
+  ]

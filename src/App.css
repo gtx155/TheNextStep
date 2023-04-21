@@ -13,7 +13,7 @@
     --dark_grey: #35363E;*/
 
 
-    --Porpl: #805ad5; /*Porpl NOT IN USE*/
+    --Porpl: #805ad5; /*Porpl NOT IN SERVICE*/
   }
 
 * {
@@ -97,10 +97,6 @@ body {
     border-right: 0;
     border-top: 0;
   }
-
-label { 
-    color: var(--purple);
-}
 
 /*.footer {
     position: absolute;

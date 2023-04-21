@@ -1,1 +1,118 @@
-[  {"subMetal": "Alternative metal"},  {"subMetal": "Avant-garde metal"},  {"subMetal": "Black metal"},  {"subMetal": "Progressive death metal"},  {"subMetal": "Death 'n' roll"},  {"subMetal": "Deathcore"},  {"subMetal": "Death-doom"},  {"subMetal": "Death metal"},  {"subMetal": "Djent"},  {"subMetal": "Doom metal"},  {"subMetal": "Drone metal"},  {"subMetal": "Folk metal"},  {"subMetal": "Glam metal"},  {"subMetal": "Groove metal"},  {"subMetal": "Heavy metal"},  {"subMetal": "Industrial metal"},  {"subMetal": "Kawaii metal"},  {"subMetal": "Melodic death metal"},  {"subMetal": "Metalcore"},  {"subMetal": "Nu metal"},  {"subMetal": "Post-metal"},  {"subMetal": "Power metal"},  {"subMetal": "Sludge metal"},  {"subMetal": "Speed metal"},  {"subMetal": "Symphonic metal"},  {"subMetal": "Technical death metal"},  {"subMetal": "Technical deathcore"},  {"subMetal": "Thrash metal"},  {"subMetal": "Stoner metal"}]
+[
+    {
+      "subMetal": "Alternative metal",
+      "descMetal": "Metal 1 +"
+    },
+    {
+      "subMetal": "Avant-garde metal",
+      "descMetal": "2"
+    },
+    {
+      "subMetal": "Black metal",
+      "descMetal": "3"
+    },
+    {
+      "subMetal": "Progressive death metal",
+      "descMetal": "4"
+    },
+    {
+      "subMetal": "Death 'n' roll",
+      "descMetal": "5"
+    },
+    {
+      "subMetal": "Deathcore",
+      "descMetal": "6"
+    },
+    {
+      "subMetal": "Death-doom",
+      "descMetal": "7"
+    },
+    {
+      "subMetal": "Death metal",
+      "descMetal": "8"
+    },
+    {
+      "subMetal": "Djent",
+      "descMetal": "9"
+    },
+    {
+      "subMetal": "Doom metal",
+      "descMetal": "10"
+    },
+    {
+      "subMetal": "Drone metal",
+      "descMetal": "11"
+    },
+    {
+      "subMetal": "Folk metal",
+      "descMetal": "12"
+    },
+    {
+      "subMetal": "Glam metal",
+      "descMetal": "13"
+    },
+    {
+      "subMetal": "Groove metal",
+      "descMetal": "14"
+    },
+    {
+      "subMetal": "Heavy metal",
+      "descMetal": "15"
+    },
+    {
+      "subMetal": "Industrial metal",
+      "descMetal": "16"
+    },
+    {
+      "subMetal": "Kawaii metal",
+      "descMetal": "17"
+    },
+    {
+      "subMetal": "Melodic death metal",
+      "descMetal": "18"
+    },
+    {
+      "subMetal": "Metalcore",
+      "descMetal": "19"
+    },
+    {
+      "subMetal": "Nu metal",
+      "descMetal": "20"
+    },
+    {
+      "subMetal": "Post-metal",
+      "descMetal": "21"
+    },
+    {
+      "subMetal": "Power metal",
+      "descMetal": "22"
+    },
+    {
+      "subMetal": "Sludge metal",
+      "descMetal": "23"
+    },
+    {
+      "subMetal": "Speed metal",
+      "descMetal": "24"
+    },
+    {
+      "subMetal": "Symphonic metal",
+      "descMetal": "25"
+    },
+    {
+      "subMetal": "Technical death metal",
+      "descMetal": "26"
+    },
+    {
+      "subMetal": "Technical deathcore",
+      "descMetal": "27"
+    },
+    {
+      "subMetal": "Thrash metal",
+      "descMetal": "28"
+    },
+    {
+      "subMetal": "Stoner metal",
+      "descMetal": "29"
+    }
+  ]
