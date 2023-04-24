@@ -33,11 +33,11 @@
     },
     {
       "subRock": "Indie rock",
-      "descRock": "Indie rock is a genre with a DIY ethos and diverse styles. It's often guitar-driven and introspective with a raw, authentic feel. The sound ranges from acoustic melodies to catchy rock anthems. Indie rock values creativity, individuality, and artistic expression, with a non-conformist, alternative feel."
+      "descRock": "Indie rock is a known for it's DIY ethos and diverse styles. It's often guitar-driven and introspective with a raw, authentic feel. The sound ranges from acoustic melodies to catchy rock anthems. Indie rock values creativity, individuality, and artistic expression, with a non-conformist, alternative feel."
     },
     {
       "subRock": "Math rock",
-      "descRock": "Math rock is a genre with intricate rhythms, unconventional time signatures, and technical musicianship. It features angular melodies, unpredictable structures, and showcases guitar tapping, odd time signatures, and unconventional progressions."
+      "descRock": "Math rock is a filled with intricate rhythms, unconventional time signatures, and technical musicianship. It features angular melodies, unpredictable structures, and showcases guitar tapping, odd time signatures, and unconventional progressions."
     },
     {
       "subRock": "Melodic rock",
@@ -45,7 +45,7 @@
     },
     {
       "subRock": "Neo-progressive rock",
-      "descRock": "Neo-progressive rock is a genre drawing from classic progressive rock, featuring intricate instrumentals, complex time signatures, and thought-provoking lyrics. Incorporating elements of jazz, classical, and symphonic music, it has a polished and technical production style. It's introspective, grandiose, and ambitious, with a focus on storytelling and dramatic crescendos."
+      "descRock": "Neo-progressive rock draws from classic progressive rock, featuring intricate instrumentals, complex time signatures, and thought-provoking lyrics. Incorporating elements of jazz, classical, and symphonic music, it has a polished and technical production style. It's introspective, grandiose, and ambitious, with a focus on storytelling and dramatic crescendos."
     },
     {
       "subRock": "Noise rock",
@@ -53,42 +53,42 @@
     },
     {
       "subRock": "Occult rock",
-      "descRock": "14"
+      "descRock": "Occult rock is a genre characterized by its mystical and mysterious themes and imagery, often drawing from occultism, witchcraft, and supernatural beliefs. The music often features heavy, riff-based guitar work and haunting, ethereal vocals with a dark, mystical feel."
     },
     {
       "subRock": "Post-grunge",
-      "descRock": "15"
+      "descRock": "Post-grunge is known for its heavy and aggressive sound, inspired by grunge rock. It features distorted guitar riffs, powerful vocals, and often deals with themes of angst, introspection, and emotional turmoil."
     },
     {
       "subRock": "Post-hardcore",
-      "descRock": "16"
+      "descRock": "Post-hardcore music is characterized by its aggressive, emotional sound that blends elements of punk, hardcore, and rock. It often features complex rhythms, dynamic shifts, and intense vocals, conveying a sense of raw emotion and catharsis."
     },
     {
       "subRock": "Post-rock",
-      "descRock": "17"
+      "descRock": "Post-rock is characterized by its atmospheric, instrumental sound that often builds and evolves over time. It features expansive, textured arrangements, often without vocals, and creates a sense of emotional depth and cinematic landscapes through its instrumental compositions."
     },
     {
       "subRock": "Progressive rock",
-      "descRock": "18"
+      "descRock": "Progressive rock is characterized by its complex, often virtuosic instrumentation and intricate compositions that push the boundaries of traditional rock music. It features diverse influences, unconventional time signatures, and a sense of musical sophistication, often exploring philosophical, introspective, and imaginative themes."
     },
     {
       "subRock": "Psychedelic rock",
-      "descRock": "19"
+      "descRock": "Psychedelic rock features distorted guitar, dreamy vocals, and trippy lyrics that create an otherworldly and hallucinogenic atmosphere. It often incorporates unconventional song structures, instrumentation, and production techniques, evoking a sense of exploration and experimentation."
     },
     {
       "subRock": "Shoegaze",
-      "descRock": "20"
+      "descRock": "Shoegaze is a style of music that heavily uses dreamy, ethereal soundscapes, prominent use of distortion, and soft vocals that blend into the instrumentation. The music creates a hazy and introspective atmosphere."
     },
     {
       "subRock": "Stoner rock",
-      "descRock": "21"
+      "descRock": "Stoner rock is characterized by heavy, distorted guitar riffs, slow-to-mid tempo rhythms, and a thick, fuzzy sound. The music often has a trippy and hypnotic feel, with a focus on groove and a laid-back, stoned-out vibe."
     },
     {
       "subRock": "Heavy progressive rock",
-      "descRock": "22"
+      "descRock": "Heavy progressive rock features complex and intricate musical arrangements with heavy, distorted guitars, intricate rhythms, and often epic song structures. The music can be intense and dramatic, with a mix of melodic and heavy elements, and a progressive approach to songwriting and instrumentation."
     },
     {
       "subRock": "Crossover progressive rock",
-      "descRock": "23"
+      "descRock": "Crossover progressive rock combines elements of different musical genres, blending rock with elements of jazz, classical, world music, and more. The music often features intricate instrumentation, diverse vocal styles, and a fusion of musical influences, creating a unique and progressive sound."
     }
   ]
