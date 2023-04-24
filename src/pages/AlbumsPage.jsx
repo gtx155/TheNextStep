@@ -28,7 +28,7 @@ function GenresTextDataLoader() {
         const desc = music.descRock || music.descMetal;
 
         return (
-          <MyAlbums key={index} name={name} desc={desc} id={name.replace(/\s/g, '')}/>
+          <MyAlbums key={index} name={name} desc={desc} albums={music} id={name.replace(/\s/g, '')}/>
         );
       })}
     </>

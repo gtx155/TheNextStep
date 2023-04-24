@@ -69,6 +69,16 @@
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    gap: 2px;
+}
+
+.albumFlexHolder div {
+    max-width: 200px; /* Set a maximum width for the album container */
+}
+
+.albumFlexHolder p {
+    text-align: center;
+    word-break: break-word;
 }
 
 img {
@@ -102,20 +112,6 @@ img:nth-child(6):hover {
     transition-delay: 0.05s;
 }
 
-
-.textHolder {
-    display: flex;
-    justify-content: space-around;
-    font-family: 'PT Sans', sans-serif;
-}
-
-.textHolder p {
-    margin-top: 10px;
-    color: var(--white);
-
-}
-
-
 /*Mobile support*/
 @media (max-width:1000px) {
     .albumFlexHolder {
@@ -123,12 +119,13 @@ img:nth-child(6):hover {
     }
 
     .albumFlexHolder img {
-        height: 108px;
-        width: 108px;
+        justify-content: center;
+        height: 125px;
+        width: 125px;
         margin: 5px;
     }
 
-    .textHolder p {
+    .albumFlexHolder p {
         display: none;
     }
 }
