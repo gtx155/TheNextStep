@@ -130,7 +130,7 @@ img:nth-child(6):hover {
     }
 }
 
-@media (width < 375px) {
+@media (width < 380px) {
      .albumFlexHolder img {
         justify-content: center;
         height: 75px;
