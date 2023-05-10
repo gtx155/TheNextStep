@@ -6,7 +6,7 @@ function AlbumCovers(props) {
   const API_KEY = process.env.REACT_APP_API_KEY;
   const ARTIST_NAME = props.artistName;
   const ALBUM_NAME = props.albumName;
-  const API_URL = `http://ws.audioscrobbler.com/2.0/?method=album.getinfo&artist=${ARTIST_NAME}&album=${ALBUM_NAME}&api_key=${API_KEY}&format=json`;
+  const API_URL = `https://ws.audioscrobbler.com/2.0/?method=album.getinfo&artist=${ARTIST_NAME}&album=${ALBUM_NAME}&api_key=${API_KEY}&format=json`;
 
   const imgRef = useRef(null);
 
