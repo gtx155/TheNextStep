@@ -1,5 +1,6 @@
 import { Header } from "/src/components/Header";
 import { MyAlbums } from "/src/components/MyAlbums";
+import Footer from "/src/components/Footer"
 import RockData from "/src/Rock.json"
 import MetalData from "/src/Metal.json"
 import './StyleAlbums.css'
@@ -9,6 +10,7 @@ export function AlbumsPage (){
         <>
             <Header />
             <GenresTextDataLoader />
+            <Footer page={"albums"}/>
         </>
     )
 }

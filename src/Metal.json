@@ -3,29 +3,23 @@
       "subMetal": "Alternative metal",
       "descMetal": "Alternative metal is a heavy and aggressive style of music that blends elements of alternative rock and metal. It features distorted guitar riffs, intense drumming, and strong vocals, with a focus on melody and emotion.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -33,29 +27,23 @@
       "subMetal": "Avant-garde metal",
       "descMetal": "Avant-garde metal is a genre that blends elements of experimental music with heavy metal. It is known for its unconventional structures, complex instrumentation, and often features unusual time signatures and dissonant sounds. The music has a unique and experimental feel that can be challenging and provocative.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -63,29 +51,23 @@
       "subMetal": "Black metal",
       "descMetal": "Black metal is characterized by its dark, aggressive sound with fast, tremolo-picked guitar riffs, harsh vocals, and blast beats. It often features themes of darkness, nature, and occultism. The music has a raw, chaotic, and atmospheric feel, with a sense of darkness and mystique.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -93,29 +75,23 @@
       "subMetal": "Progressive death metal",
       "descMetal": "Progressive death metal typically features complex rhythms, technical musicianship, and unconventional song structures. The music often has a dark and aggressive feel, with elements of progressive rock and death metal blending together to create a unique sound.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -123,29 +99,23 @@
       "subMetal": "Death 'n' roll",
       "descMetal": "Death 'n' roll is a fusion of death metal with rock 'n' roll. It features aggressive, distorted guitar riffs and growled vocals, combined with a groove and rhythmic feel reminiscent of classic rock.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -153,29 +123,23 @@
       "subMetal": "Deathcore",
       "descMetal": "Deathcore is an extreme metal subgenre that typically features elements of death metal and metalcore. It is characterized by its heavy breakdowns, blast beats, growled vocals, and overall aggression.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -183,29 +147,23 @@
         "subMetal": "Death-doom",
       "descMetal": "Death-doom is a fusion of death metal and doom metal, often featuring slow, heavy, and melancholic passages with guttural growled vocals. It creates a dark, gloomy atmosphere with a blend of brutality and mournful melodies.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -213,29 +171,23 @@
       "subMetal": "Death metal",
       "descMetal": "Death metal is known for its aggressive, fast-paced music, guttural growled vocals, and technical instrumentation. It often explores themes of morbidity, violence, and darkness, with intense, brutal, and uncompromising soundscapes that evoke a sense of brutality and aggression.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -243,29 +195,23 @@
       "subMetal": "Djent",
       "descMetal": "Djent is characterized by its heavy, syncopated riffs, polyrhythmic grooves, and distinctive \"djent\" guitar tone. It has a modern, futuristic feel with complex and intricate instrumentation, often incorporating ambient and electronic elements for a futuristic, tech-driven sound.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -273,29 +219,23 @@
       "subMetal": "Doom metal",
       "descMetal": "Doom metal is known for its slow, heavy, and melancholic music with rumbling basslines, downtuned guitars, and thunderous drums. Emphasizes atmosphere over aggression. Lyrics are often despairing and introspective.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -303,29 +243,23 @@
       "subMetal": "Drone metal",
       "descMetal": "Drone is characterized by long, sustained notes with minimalistic melody or rhythm. Heavy use of distortion and effects. Often slow and repetitive, creating a trance-like effect on the listener. Can be unsettling and meditative.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -333,29 +267,23 @@
       "subMetal": "Folk metal",
       "descMetal": "Folk metal mixes heavy metal with traditional folk music elements, such as folk instruments and melodies. The sound can range from fast-paced and aggressive to melodic and introspective, with lyrics often celebrating mythology, history, and folklore.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -363,29 +291,23 @@
       "subMetal": "Glam metal",
       "descMetal": "Glam metal is known for its flashy and extravagant image, with catchy hooks, melodic riffs, and soaring vocals. It's often associated with a party and hedonistic vibe, featuring glamorized fashion and showmanship, and a focus on catchy, anthemic choruses.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -393,29 +315,23 @@
       "subMetal": "Groove metal",
       "descMetal": "Groove metal is defined by its heavy, groovy riffs and rhythmic patterns, often incorporating elements of thrash, hardcore, and groove. It's known for its aggressive and intense sound, with a focus on head-banging rhythms and powerful, commanding vocals.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -423,29 +339,23 @@
       "subMetal": "Heavy metal",
       "descMetal": "Heavy metal is characterized by its loud and heavy sound, with distorted guitars, powerful drumming, and often high-pitched vocals. It's known for its rebellious and energetic attitude, and typically features virtuosic instrumental solos.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -453,29 +363,23 @@
       "subMetal": "Industrial metal",
       "descMetal": "Industrial metal is characterized by a blend of heavy metal and industrial music, featuring harsh, distorted guitars, pounding drums, electronic and mechanical sounds, and often aggressive or confrontational lyrics. The sound is often dark, abrasive, and industrial in nature, with a focus on atmosphere and texture.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -483,29 +387,23 @@
       "subMetal": "Melodic death metal",
       "descMetal": "Melodic death metal combines death metal's aggression and brutality with melodic and often symphonic elements, featuring growled vocals, intricate guitar work, and catchy melodies. The sound is often dynamic, melodic, and intense, with a blend of harshness and melody.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -513,29 +411,23 @@
       "subMetal": "Metalcore",
       "descMetal": "Metalcore blends elements of metal and hardcore punk, featuring breakdowns, screamed and clean vocals, chugging guitars, and catchy hooks. The sound is aggressive, energetic, and often incorporates melodic and atmospheric elements for an intense and dynamic musical experience.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -543,29 +435,23 @@
       "subMetal": "Nu metal",
       "descMetal": "Nu metal is a fusion of heavy metal and alternative rock, characterized by down-tuned guitars, hip-hop and rap influences, and often angst-ridden lyrics. It features a blend of harsh and melodic elements with emphasis on groove and rhythm.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -573,29 +459,23 @@
       "subMetal": "Post-metal",
       "descMetal": "Post-metal is characterized by slow and atmospheric instrumentals, and a focus on creating ambiance and texture through the music. It often incorporates elements from post-rock and doom metal.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -603,29 +483,23 @@
       "subMetal": "Power metal",
       "descMetal": "Power metal is characterized by fast-paced, melodic guitar riffs, high-pitched vocals, and lyrics that often explore fantasy and mythology. The overall feel is energetic and uplifting, with a focus on storytelling and epic themes.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -633,29 +507,23 @@
       "subMetal": "Sludge metal",
       "descMetal": "Sludge metal is a heavy and slow style of metal music that is characterized by its distorted guitars, heavily downtuned riffs, and deep, often shouted vocals. It often incorporates elements of doom, stoner, and hardcore punk.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -663,29 +531,23 @@
       "subMetal": "Speed metal",
       "descMetal": "Speed metal is characterized by its fast tempos, intricate guitar riffs, and aggressive vocals. It has a high-energy and often technical sound that is focused on delivering fast, intense, and memorable songs.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -693,29 +555,23 @@
       "subMetal": "Symphonic metal",
       "descMetal": "Symphonic metal incorporates symphonic elements, such as orchestral instruments and choirs, with heavy metal. The music typically features grandiose and theatrical arrangements with operatic vocals and melodic instrumentation.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -723,29 +579,23 @@
       "subMetal": "Technical death metal",
       "descMetal": "Technical death metal is characterized by intricate, often dissonant guitar riffs and complex drum patterns. The music is usually played at a very high tempo and features frequent time signature changes and technical instrumentation. The overall feel is intense, challenging, and highly technical.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -753,29 +603,23 @@
       "subMetal": "Technical deathcore",
       "descMetal": "Technical deathcore is a fusion of deathcore and technical death metal, featuring complex and intricate musicianship, downtuned and heavy guitar riffs, brutal breakdowns, and fast-paced drumming, often accompanied by guttural vocals and occasional clean singing.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -783,29 +627,23 @@
       "subMetal": "Thrash metal",
       "descMetal": "Fast, aggressive, and heavy. Characterized by fast tempos, complex guitar riffs, and aggressive vocals. Emphasizes on aggression, speed, and intense riffing with a punk influence.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     },
@@ -813,29 +651,23 @@
       "subMetal": "Stoner metal",
       "descMetal": "Stoner metal features distorted and downtuned guitar riffs, a heavy emphasis on rhythm, and psychedelic and bluesy elements. It often has a slow and repetitive sound, and lyrics are often focused on drug use and counterculture.",
       "albumsData": [
-        {
-          "albumName": "Album One",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
         },
-        {
-          "albumName": "Album Two",
-          "albumImg": "/2.webp"
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
         },
-        {
-          "albumName": "Album Three",
-          "albumImg": "/2.webp"
+        { "artistName": "The Score",
+          "albumName": "Stay"
         },
-        {
-          "albumName": "Album Four",
-          "albumImg": "/2.webp"
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
         },
-        {
-          "albumName": "Album Five",
-          "albumImg": "/2.webp"
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
-        {
-          "albumName": "Album Six",
-          "albumImg": "/2.webp"
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
         }
       ]
     }

@@ -1,6 +1,7 @@
 import { Header } from "../components/Header";
 import { SubgenresR } from "../components/SubgenresButtons";
 import { SubgenresM } from "../components/SubgenresButtons";
+import Footer from "/src/components/Footer"
 
 
 export function Home (){
@@ -16,9 +17,7 @@ export function Home (){
             <SubgenresR />
             <SubgenresM />
         </div>
-        {/*<footer className="footer">
-            <p>Email: GOSHO</p>
-        </footer> */}
+        <Footer page={"home"}/>
         </>
     )
 }

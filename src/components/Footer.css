@@ -1,0 +1,38 @@
+.footer-home {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    height: fit-content;   /* Height of the footer */
+    margin-top: 50px;
+    bottom: 0;
+    width: 100%;
+    background: var(--purple);
+    color: var(--white);
+    font-size: 12px;
+}
+
+.footer-albums {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: fit-content;   /* Height of the footer */
+    margin-top: 35px;
+    width: 100%;
+    background: var(--purple);
+    color: var(--white);
+    font-size: 12px;
+}
+
+@media (width < 1200px) {
+    .footer-home {
+        position: relative;
+        font-size: 0.5rem;
+        height: 40px;
+        margin-top: 25px;
+    }
+}
+
+.icon-api {
+    height: 15px !important;
+    width: 59px !important;
+}
