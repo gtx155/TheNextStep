@@ -2,32 +2,39 @@
     position: fixed;
     display: flex;
     align-items: center;
+    justify-content: center;
     height: fit-content;   /* Height of the footer */
-    margin-top: 50px;
     bottom: 0;
     width: 100%;
     background: var(--purple);
     color: var(--white);
-    font-size: 12px;
+    font-size: 0.75rem;
+
 }
 
 .footer-albums {
     position: relative;
     display: flex;
     align-items: center;
+    justify-content: center;
     height: fit-content;   /* Height of the footer */
-    margin-top: 35px;
     width: 100%;
     background: var(--purple);
     color: var(--white);
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 @media (width < 1200px) {
     .footer-home {
         position: relative;
-        font-size: 0.5rem;
-        height: 40px;
+        font-size: 0.7rem;
+        height: fit-content;
+        margin-top: 25px;
+    }
+
+    .footer-albums {
+        font-size: 0.7rem;
+        height: fit-content;
         margin-top: 25px;
     }
 }
