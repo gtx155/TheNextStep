@@ -8,6 +8,8 @@ function AlbumCovers(props) {
   const ALBUM_NAME = props.albumName;
   const API_URL = `https://ws.audioscrobbler.com/2.0/?method=album.getinfo&artist=${ARTIST_NAME}&album=${ALBUM_NAME}&api_key=${API_KEY}&format=json`;
 
+  console.log(process.env.REACT_APP_API_KEY);
+
   const imgRef = useRef(null);
 
   useEffect(() => {
