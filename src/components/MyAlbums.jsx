@@ -3,12 +3,10 @@ import { useState, useEffect, useRef } from 'react';
 function AlbumCovers(props) {
   const [albumInfo, setAlbumInfo] = useState(null);
   const [imgSrc, setImgSrc] = useState('');
-  const API_KEY = process.env.API_KEY;
+  const API_KEY = import.meta.env.VITE_API_KEY;
   const ARTIST_NAME = props.artistName;
   const ALBUM_NAME = props.albumName;
   const API_URL = `https://ws.audioscrobbler.com/2.0/?method=album.getinfo&artist=${ARTIST_NAME}&album=${ALBUM_NAME}&api_key=${API_KEY}&format=json`;
-
-  console.log(process.env.REACT_APP_API_KEY);
 
   const imgRef = useRef(null);
 

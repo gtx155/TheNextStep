@@ -9,6 +9,7 @@
     background: var(--purple);
     color: var(--white);
     font-size: 0.75rem;
+    font-family: 'PT Sans', sans-serif;
 
 }
 
@@ -22,6 +23,7 @@
     background: var(--purple);
     color: var(--white);
     font-size: 0.75rem;
+    font-family: 'PT Sans', sans-serif;
 }
 
 @media (width < 1200px) {
