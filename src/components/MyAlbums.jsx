@@ -50,7 +50,7 @@ function AlbumCovers(props) {
     <div>
       <img 
         className="border-gradient border-gradient-purple only-bottom" 
-        src={imgSrc} 
+        src={imgSrc ||"/noimg-holder.webp"} 
         height="200px" 
         alt={albumInfo?.name} 
         ref={imgRef}
