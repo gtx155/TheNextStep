@@ -63,11 +63,15 @@
     left: -200px;
     width: 200px;
     height: 100%;
-    background-color: #fdffff;
+    background-color: var(--background);
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
     z-index: 99;
     transition: left 0.3s ease-out;
 
+  }
+
+  .menu a {
+    color: var(--white);
   }
 
   .menu.open {
@@ -93,7 +97,8 @@
   .menu li {
     list-style: none;
     padding: 10px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid;
+    border-image: linear-gradient(to right, #743ad5, #d53a9d) 1;    
   }
 
   .menu li:first-child {

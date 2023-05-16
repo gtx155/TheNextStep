@@ -149,6 +149,7 @@ img:nth-child(6):hover {
         color: var(--white);
         font-family: 'PT Sans', sans-serif;
         font-size: 0.8rem;
+        text-align: center;
         font-weight: 550;
         border-radius: 4px;
         opacity: 0;

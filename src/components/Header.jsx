@@ -32,7 +32,7 @@ export function Header() {
             <NavLink to='/'>Contacts</NavLink>
           </li>
           <li>
-            <NavLink to='/'>FAQ</NavLink>
+            <NavLink to='/FAQ'>FAQ</NavLink>
           </li>
           <li>
             <NavLink to='/AlbumsPage'>Genres Page</NavLink>

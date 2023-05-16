@@ -6,20 +6,20 @@
       { "artistName": "Royal Blood",
         "albumName": "Royal Blood"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Royal Blood",
+        "albumName": "Typhoons"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
-      },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Toothgrinder",
+        "albumName": "Phantom Amour"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Gone Is Gone",
+        "albumName": "Echolocation"
+      },
+      { "artistName": "40 Watt Sun",
+        "albumName": "Wider Than The Sky"
       }
     ]
     },
@@ -27,17 +27,17 @@
     "subRock": "Blues rock",
     "descRock": "Blues rock is a mix of blues and rock music. It has soulful vocals, emotive guitar solos, and a driving beat. It's gritty, raw, and passionate, with lyrics about deep emotions. It can be both melancholic and uplifting.",
     "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "The Black Keys",
+        "albumName": "\"Let's Rock\""
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Graveyard",
+        "albumName": "Peace"
       },
       { "artistName": "Graveyard",
         "albumName": "Hisingen Blues"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Karnivool",
+        "albumName": "Asymmetry"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -51,8 +51,8 @@
       "subRock": "Electronic rock",
       "descRock": "Electronic rock blends rock music with electronic sounds and often uses synthesizers, drum machines, and other electronic instruments. It's high-energy with a driving beat and can have a futuristic or sci-fi feel, combining distorted guitars and vocals with electronic elements.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Starset",
+        "albumName": "HORIZONS"
       },
       { "artistName": "Leprous",
         "albumName": "Malina"
@@ -75,14 +75,14 @@
       "subRock": "Experimental rock",
       "descRock": "Experimental rock defies traditional norms, challenging expectations with avant-garde and emotive expression. It can range from cerebral to raw, showcasing artistic freedom and exploration.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "The Dear Hunter",
+        "albumName": "Act III: Life and Death"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Have a Nice Life",
+        "albumName": "Sea of Worry"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Have a Nice Life",
+        "albumName": "Deathconsciousness"
       },
       { "artistName": "Queens of the Stone Age",
         "albumName": "...Like Clockwork"
@@ -99,8 +99,8 @@
       "subRock": "Glam rock",
       "descRock": "Glam rock has distorted guitars, synthesizers, and a strong rhythm section. It's known for image and style, with outrageous costumes and high-energy, danceable music that exudes glamour and escapism.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Twisted Sister",
+        "albumName": "Stay Hungry"
       },
       { "artistName": "Leprous",
         "albumName": "Malina"
@@ -123,8 +123,8 @@
       "subRock": "Gothic rock",
       "descRock": "Gothic rock is dark, moody music that explores melancholic and macabre themes, with deep vocals, melodic guitar lines, and eerie synthesizers or keyboards. It creates a brooding atmosphere filled with mystery and drama.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Paradise Lost",
+        "albumName": "One Second (20th Anniversary) [Deluxe Remastered]"
       },
       { "artistName": "Leprous",
         "albumName": "Malina"
@@ -147,17 +147,17 @@
       "subRock": "Hard rock",
       "descRock": "Hard rock is loud, aggressive music with powerful guitar riffs, strong rhythms, and bold vocals. It's energetic, gritty, and focuses on rebellion and life struggles, with anthemic choruses that get your adrenaline pumping.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Breaking Benjamin",
+        "albumName": "Dark Before Dawn"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Breaking Benjamin",
+        "albumName": "Phobia"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Of Mice & Men",
+        "albumName": "Defy"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Saint Asonia",
+        "albumName": "Flawed Design"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -195,14 +195,14 @@
       "subRock": "Indie rock",
       "descRock": "Indie rock is a known for it's DIY ethos and diverse styles. It's often guitar-driven and introspective with a raw, authentic feel. The sound ranges from acoustic melodies to catchy rock anthems. Indie rock values creativity, individuality, and artistic expression, with a non-conformist, alternative feel.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Interpol",
+        "albumName": "Marauder"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Editors",
+        "albumName": "An End Has a Start"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Band of Horses",
+        "albumName": "Everything All the Time"
       },
       { "artistName": "Queens of the Stone Age",
         "albumName": "...Like Clockwork"
@@ -243,20 +243,20 @@
       "subRock": "Melodic rock",
       "descRock": "Melodic rock is upbeat and energetic music that emphasizes melody, harmony, catchy choruses, melodic guitar lines, and powerful vocals. Influenced by classic rock, pop, and other melodic genres, it is positive and uplifting with memorable hooks and polished production.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Khymera",
+        "albumName": "A New Promise"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Khymera",
+        "albumName": "The Grand Design"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Coldspell",
+        "albumName": "Out From The Cold"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Allen-Lande",
+        "albumName": "The Revenge"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "W.E.T.",
+        "albumName": "Earthrage"
       },
       { "artistName": "BRKN LOVE",
         "albumName": "Black Box"
@@ -291,41 +291,17 @@
       "subRock": "Noise rock",
       "descRock": "Noise rock is a raw, aggressive genre with dissonant sound, unconventional guitar techniques, shouted/screamed vocals, and a focus on chaos and experimentation, pushing traditional rock boundaries.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Unsane",
+        "albumName": "Wreck"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Tropical Fuck Storm",
+        "albumName": "A Laughing Death in Meatspace"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Slint",
+        "albumName": "Spiderland"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
-      }
-    ]
-    },
-    {
-      "subRock": "Occult rock",
-      "descRock": "Occult rock is a genre characterized by its mystical and mysterious themes and imagery, often drawing from occultism, witchcraft, and supernatural beliefs. The music often features heavy, riff-based guitar work and haunting, ethereal vocals with a dark, mystical feel.",
-      "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
-      },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
-      },
-      { "artistName": "The Score",
-        "albumName": "Stay"
-      },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Have a Nice Life",
+        "albumName": "Sea of Worry"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -339,8 +315,8 @@
       "subRock": "Post-grunge",
       "descRock": "Post-grunge is known for its heavy and aggressive sound, inspired by grunge rock. It features distorted guitar riffs, powerful vocals, and often deals with themes of angst, introspection, and emotional turmoil.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Seether",
+        "albumName": "Poison the Parish"
       },
       { "artistName": "Leprous",
         "albumName": "Malina"
@@ -363,23 +339,23 @@
       "subRock": "Post-hardcore",
       "descRock": "Post-hardcore music is characterized by its aggressive, emotional sound that blends elements of punk, hardcore, and rock. It often features complex rhythms, dynamic shifts, and intense vocals, conveying a sense of raw emotion and catharsis.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Alexisonfire",
+        "albumName": "Crisis"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Dance Gavin Dance",
+        "albumName": "Artificial Selection"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Makari",
+        "albumName": "Hyperreal"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Dayshell",
+        "albumName": "Mr. Pain"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "Finch",
+        "albumName": "Say Hello to Sunshine"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Circa Survive",
+        "albumName": "The Amulet"
       }
     ]
     },
@@ -411,23 +387,23 @@
       "subRock": "Progressive rock",
       "descRock": "Progressive rock is characterized by its complex, often virtuosic instrumentation and intricate compositions that push the boundaries of traditional rock music. It features diverse influences, unconventional time signatures, and a sense of musical sophistication, often exploring philosophical, introspective, and imaginative themes.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "The Pineapple Thief",
+        "albumName": "Your Wilderness"
+      },
+      { "artistName": "The Pineapple Thief",
+        "albumName": "Versions of the Truth"
       },
       { "artistName": "Leprous",
-        "albumName": "Malina"
+        "albumName": "Aphelion"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Riverside",
+        "albumName": "Shrine of New Generation Slaves"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Pink Floyd",
+        "albumName": "The Dark Side of the Moon"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Anathema",
+        "albumName": "Judgement"
       }
     ]
     },
@@ -450,8 +426,8 @@
       { "artistName": "King Buffalo",
         "albumName": "Longing To Be The Mountain"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Uncle Acid & the Deadbeats",
+        "albumName": "Wasteland"
       }
     ]
     },
@@ -516,8 +492,8 @@
       { "artistName": "Leprous",
         "albumName": "Malina"
       },
-      { "artistName": "Haken",
-        "albumName": "Vector"
+      { "artistName": "Riverside",
+        "albumName": "Wasteland"
       },
       { "artistName": "The Contortionist",
         "albumName": "Clairvoyant"
@@ -537,14 +513,14 @@
       { "artistName": "Thank You Scientist",
         "albumName": "Maps of Non-Existent Places"
       },
+      { "artistName": "Haken",
+        "albumName": "Affinity"
+      },
+      { "artistName": "Coheed and Cambria",
+        "albumName": "Vaxis – Act I: The Unheavenly Creatures"
+      },
       { "artistName": "Coheed and Cambria",
         "albumName": "Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness"
-      },
-      { "artistName": "Coheed and Cambria",
-        "albumName": "Unheavenly Creatures"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
       },
       { "artistName": "BRKN LOVE",
         "albumName": "Black Box"

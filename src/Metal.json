@@ -3,17 +3,17 @@
       "subMetal": "Alternative metal",
       "descMetal": "Alternative metal is a heavy and aggressive style of music that blends elements of alternative rock and metal. It features distorted guitar riffs, intense drumming, and strong vocals, with a focus on melody and emotion.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Avenged Sevenfold",
+          "albumName": "Avenged Sevenfold"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Deftones",
+          "albumName": "Diamond Eyes"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Deftones",
+          "albumName": "Gore"
         },
         { "artistName": "Thrice",
           "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -51,8 +51,8 @@
       "subMetal": "Black metal",
       "descMetal": "Black metal is characterized by its dark, aggressive sound with fast, tremolo-picked guitar riffs, harsh vocals, and blast beats. It often features themes of darkness, nature, and occultism. The music has a raw, chaotic, and atmospheric feel, with a sense of darkness and mystique.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Burzum",
+          "albumName": "Filosofem"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -75,8 +75,8 @@
       "subMetal": "Death 'n' roll",
       "descMetal": "Death 'n' roll is a fusion of death metal with rock 'n' roll. It features aggressive, distorted guitar riffs and growled vocals, combined with a groove and rhythmic feel reminiscent of classic rock.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Carcass",
+          "albumName": "Swansong"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -99,23 +99,23 @@
       "subMetal": "Deathcore",
       "descMetal": "Deathcore is an extreme metal subgenre that typically features elements of death metal and metalcore. It is characterized by its heavy breakdowns, blast beats, growled vocals, and overall aggression.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Whitechapel",
+          "albumName": "The Valley"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Fit for an Autopsy",
+          "albumName": "The Sea of Tragic Beasts"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Humanity's Last Breath",
+          "albumName": "Humanity's Last Breath (Remixed & Remastered - Instrumental)"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Signs of the Swarm",
+          "albumName": "The Disfigurement of Existence"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Shadow of Intent",
+          "albumName": "Primordial"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Within Destruction",
+          "albumName": "DEATHWISH"
         }
       ]
     },
@@ -123,8 +123,8 @@
         "subMetal": "Death-doom",
       "descMetal": "Death-doom is a fusion of death metal and doom metal, often featuring slow, heavy, and melancholic passages with guttural growled vocals. It creates a dark, gloomy atmosphere with a blend of brutality and mournful melodies.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Paradise Lost",
+          "albumName": "The Plague Within"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -147,8 +147,8 @@
       "subMetal": "Death metal",
       "descMetal": "Death metal is known for its aggressive, fast-paced music, guttural growled vocals, and technical instrumentation. It often explores themes of morbidity, violence, and darkness, with intense, brutal, and uncompromising soundscapes that evoke a sense of brutality and aggression.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Morbid Angel",
+          "albumName": "Kingdoms Disdained"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -195,23 +195,23 @@
       "subMetal": "Doom metal",
       "descMetal": "Doom metal is known for its slow, heavy, and melancholic music with rumbling basslines, downtuned guitars, and thunderous drums. Emphasizes atmosphere over aggression. Lyrics are often despairing and introspective.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Khemmis",
+          "albumName": "Desolation"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Khemmis",
+          "albumName": "Deceiver"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Khemmis",
+          "albumName": "Hunted"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Pallbearer",
+          "albumName": "Foundations of Burden"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Warning",
+          "albumName": "Watching From A Distance"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Ahab",
+          "albumName": "The Call of the Wretched Sea"
         }
       ]
     },
@@ -363,14 +363,14 @@
       "subMetal": "Melodic death metal",
       "descMetal": "Melodic death metal combines death metal's aggression and brutality with melodic and often symphonic elements, featuring growled vocals, intricate guitar work, and catchy melodies. The sound is often dynamic, melodic, and intense, with a blend of harshness and melody.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "In Flames",
+          "albumName": "Clayman"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "In Flames",
+          "albumName": "Sounds of a Playground Fading"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Killswitch Engage",
+          "albumName": "Disarm The Descent"
         },
         { "artistName": "Queens of the Stone Age",
           "albumName": "...Like Clockwork"
@@ -387,23 +387,23 @@
       "subMetal": "Metalcore",
       "descMetal": "Metalcore blends elements of metal and hardcore punk, featuring breakdowns, screamed and clean vocals, chugging guitars, and catchy hooks. The sound is aggressive, energetic, and often incorporates melodic and atmospheric elements for an intense and dynamic musical experience.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Trivium",
+          "albumName": "Shogun"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Trivium",
+          "albumName": "The Sin And The Sentence"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "As I Lay Dying",
+          "albumName": "Shaped By Fire"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Architects",
+          "albumName": "Holy Hell"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Bury Tomorrow",
+          "albumName": "Cannibal"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Currents",
+          "albumName": "The Way It Ends"
         }
       ]
     },
@@ -481,25 +481,25 @@
     },
     {
       "subMetal": "Progressive metal",
-      "descMetal": "Progressive metal combines the complexity and technicality of progressive rock with the heaviness and intensity of metal. It features intricate compositions, unconventional song structures, and virtuosic musicianship, creating a dynamic and progressive musical experience.",
+      "descMetal": "Progressive metal combines complex and technical musicianship with elements of various musical styles, incorporating intricate guitar work, complex time signatures, and dynamic song structures. The music can be melodic and atmospheric, exploring diverse themes and pushing the boundaries of conventional metal.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Tool",
+          "albumName": "10,000 Days"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Tool",
+          "albumName": "Lateralus"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Caligula's Horse",
+          "albumName": "In Contact"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Caligula's Horse",
+          "albumName": "The Tide, The Thief & River's End"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Soen",
+          "albumName": "Lykaia Revisited"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Soen",
+          "albumName": "Cognitive"
         }
       ]
     },
