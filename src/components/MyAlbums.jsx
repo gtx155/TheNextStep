@@ -4,8 +4,8 @@ function AlbumCovers(props) {
   const [albumInfo, setAlbumInfo] = useState(null);
   const [imgSrc, setImgSrc] = useState('');
   const API_KEY = import.meta.env.VITE_API_KEY;
-  const ARTIST_NAME = props.artistName;
-  const ALBUM_NAME = props.albumName;
+  const ARTIST_NAME = props.artistName.replace(/&/g, '%26');
+  const ALBUM_NAME = props.albumName.replace(/&/g, '%26');
   const API_URL = `https://ws.audioscrobbler.com/2.0/?method=album.getinfo&artist=${ARTIST_NAME}&album=${ALBUM_NAME}&api_key=${API_KEY}&format=json`;
 
   const imgRef = useRef(null);
@@ -47,10 +47,10 @@ function AlbumCovers(props) {
   }, [albumInfo]);
 
   return (
-    <div>
+    <div className="albumCoverContainer" data-tooltip={props.artistName + " ● " + props.albumName}>
       <img 
         className="border-gradient border-gradient-purple only-bottom" 
-        src={imgSrc ||"/noimg-holder.webp"} 
+        src={imgSrc || "/noimg-holder.webp"} 
         height="200px" 
         alt={albumInfo?.name} 
         ref={imgRef}

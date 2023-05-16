@@ -3,8 +3,8 @@
     "subRock": "Alternative rock",
     "descRock": "Alternative rock is non-conformist approach to music-making, incorporating elements from various genres and emphasizing creative expression, experimentation, and a DIY ethos.",
     "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Royal Blood",
+        "albumName": "Royal Blood"
       },
       { "artistName": "Leprous",
         "albumName": "Malina"
@@ -33,8 +33,8 @@
       { "artistName": "Leprous",
         "albumName": "Malina"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Graveyard",
+        "albumName": "Hisingen Blues"
       },
       { "artistName": "Queens of the Stone Age",
         "albumName": "...Like Clockwork"
@@ -219,17 +219,17 @@
       "subRock": "Math rock",
       "descRock": "Math rock is a filled with intricate rhythms, unconventional time signatures, and technical musicianship. It features angular melodies, unpredictable structures, and showcases guitar tapping, odd time signatures, and unconventional progressions.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Polyphia",
+        "albumName": "Renaissance"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Polyphia",
+        "albumName": "New Levels New Devils"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Plini",
+        "albumName": "Sweet Nothings"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Intervals",
+        "albumName": "The Shape of Colour"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -267,8 +267,8 @@
       "subRock": "Neo-progressive rock",
       "descRock": "Neo-progressive rock draws from classic progressive rock, featuring intricate instrumentals, complex time signatures, and thought-provoking lyrics. Incorporating elements of jazz, classical, and symphonic music, it has a polished and technical production style. It's introspective, grandiose, and ambitious, with a focus on storytelling and dramatic crescendos.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "The Sea Within",
+        "albumName": "The Sea Within"
       },
       { "artistName": "Leprous",
         "albumName": "Malina"
@@ -387,11 +387,11 @@
       "subRock": "Post-rock",
       "descRock": "Post-rock is characterized by its atmospheric, instrumental sound that often builds and evolves over time. It features expansive, textured arrangements, often without vocals, and creates a sense of emotional depth and cinematic landscapes through its instrumental compositions.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Plini",
+        "albumName": "Sweet Nothings"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Intervals",
+        "albumName": "The Shape of Colour"
       },
       { "artistName": "The Score",
         "albumName": "Stay"
@@ -435,20 +435,20 @@
       "subRock": "Psychedelic rock",
       "descRock": "Psychedelic rock features distorted guitar, dreamy vocals, and trippy lyrics that create an otherworldly and hallucinogenic atmosphere. It often incorporates unconventional song structures, instrumentation, and production techniques, evoking a sense of exploration and experimentation.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "King Gizzard & The Lizard Wizard",
+        "albumName": "Nonagon Infinity"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "King Gizzard & The Lizard Wizard",
+        "albumName": "I'm in Your Mind Fuzz"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Psychedelic Porn Crumpets",
+        "albumName": "And Now for the Whatchamacallit"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Psychedelic Porn Crumpets",
+        "albumName": "High Visceral, Pt. 1"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "King Buffalo",
+        "albumName": "Longing To Be The Mountain"
       },
       { "artistName": "BRKN LOVE",
         "albumName": "Black Box"
@@ -483,23 +483,23 @@
       "subRock": "Stoner rock",
       "descRock": "Stoner rock is characterized by heavy, distorted guitar riffs, slow-to-mid tempo rhythms, and a thick, fuzzy sound. The music often has a trippy and hypnotic feel, with a focus on groove and a laid-back, stoned-out vibe.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "1000mods",
+        "albumName": "Repeated exposure to..."
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Witchcraft",
+        "albumName": "Legend"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Greenleaf",
+        "albumName": "Rise Above The Meadow"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "The Sword",
+        "albumName": "Apocryphon"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "Uncle Acid & the Deadbeats",
+        "albumName": "Blood Lust"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Red Fang",
+        "albumName": "Whales and Leeches"
       }
     ]
     },
@@ -508,22 +508,22 @@
       "descRock": "Heavy progressive rock features complex and intricate musical arrangements with heavy, distorted guitars, intricate rhythms, and often epic song structures. The music can be intense and dramatic, with a mix of melodic and heavy elements, and a progressive approach to songwriting and instrumentation.",
       "albumsData": [
       { "artistName": "Karnivool",
+        "albumName": "Sound Awake"
+      },
+      { "artistName": "Karnivool",
         "albumName": "Asymmetry"
       },
       { "artistName": "Leprous",
         "albumName": "Malina"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Haken",
+        "albumName": "Vector"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "The Contortionist",
+        "albumName": "Clairvoyant"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Klone",
+        "albumName": "Le Grand Voyage"
       }
     ]
     },
@@ -531,17 +531,17 @@
       "subRock": "Crossover progressive rock",
       "descRock": "Crossover progressive rock combines elements of different musical genres, blending rock with elements of jazz, classical, world music, and more. The music often features intricate instrumentation, diverse vocal styles, and a fusion of musical influences, creating a unique and progressive sound.",
       "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Thank You Scientist",
+        "albumName": "Terraformer"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Thank You Scientist",
+        "albumName": "Maps of Non-Existent Places"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Coheed and Cambria",
+        "albumName": "Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "Coheed and Cambria",
+        "albumName": "Unheavenly Creatures"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"

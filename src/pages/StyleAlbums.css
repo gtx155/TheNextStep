@@ -128,13 +128,52 @@ img:nth-child(6):hover {
     .albumFlexHolder p {
         display: none;
     }
+
+    .albumCoverContainer {
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+      }
+      
+      .albumCoverContainer::before {
+        content: attr(data-tooltip);
+        position: absolute;
+        z-index: 1;
+        bottom: 15%;
+        left: 50%;
+        width: 95px;
+        overflow-wrap: break-word;
+        transform: translateX(-50%);
+        padding: 6px 10px;
+        background-color: #743ad5B3;
+        color: var(--white);
+        font-family: 'PT Sans', sans-serif;
+        font-size: 0.8rem;
+        font-weight: 550;
+        border-radius: 4px;
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.3s, visibility 0.3s;
+      }
+      
+      .albumCoverContainer:hover::before {
+        opacity: 1;
+        visibility: visible;
+      }    
 }
 
 @media (width < 380px) {
      .albumFlexHolder img {
         justify-content: center;
-        height: 90px;
-        width: 90px;
+        height: 100px;
+        width: 100px;
         margin: 5px;
     }
+
+    .albumCoverContainer::before {
+        width: 75px;
+        font-size: 0.7rem;
+      }
 }
+
+

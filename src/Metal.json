@@ -72,30 +72,6 @@
       ]
     },
     {
-      "subMetal": "Progressive death metal",
-      "descMetal": "Progressive death metal typically features complex rhythms, technical musicianship, and unconventional song structures. The music often has a dark and aggressive feel, with elements of progressive rock and death metal blending together to create a unique sound.",
-      "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
-        },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
-        }
-      ]
-    },
-    {
       "subMetal": "Death 'n' roll",
       "descMetal": "Death 'n' roll is a fusion of death metal with rock 'n' roll. It features aggressive, distorted guitar riffs and growled vocals, combined with a groove and rhythmic feel reminiscent of classic rock.",
       "albumsData": [
@@ -195,23 +171,23 @@
       "subMetal": "Djent",
       "descMetal": "Djent is characterized by its heavy, syncopated riffs, polyrhythmic grooves, and distinctive \"djent\" guitar tone. It has a modern, futuristic feel with complex and intricate instrumentation, often incorporating ambient and electronic elements for a futuristic, tech-driven sound.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Periphery",
+          "albumName": "Periphery IV: HAIL STAN"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Periphery",
+          "albumName": "Periphery III: Select Difficulty"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Monuments",
+          "albumName": "In Stasis"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Monuments",
+          "albumName": "The Amanuensis"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "VOLA",
+          "albumName": "Witness"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Vildhjarta",
+          "albumName": "måsstaden under vatten (instrumental)"
         }
       ]
     },
@@ -504,8 +480,8 @@
       ]
     },
     {
-      "subMetal": "Sludge metal",
-      "descMetal": "Sludge metal is a heavy and slow style of metal music that is characterized by its distorted guitars, heavily downtuned riffs, and deep, often shouted vocals. It often incorporates elements of doom, stoner, and hardcore punk.",
+      "subMetal": "Progressive metal",
+      "descMetal": "Progressive metal combines the complexity and technicality of progressive rock with the heaviness and intensity of metal. It features intricate compositions, unconventional song structures, and virtuosic musicianship, creating a dynamic and progressive musical experience.",
       "albumsData": [
         { "artistName": "Breaking Benjamin",
           "albumName": "Dark Before Dawn"
@@ -524,6 +500,54 @@
         },
         { "artistName": "BRKN LOVE",
           "albumName": "Black Box"
+        }
+      ]
+    },
+    {
+      "subMetal": "Progressive death metal",
+      "descMetal": "Progressive death metal typically features complex rhythms, technical musicianship, and unconventional song structures. The music often has a dark and aggressive feel, with elements of progressive rock and death metal blending together to create a unique sound.",
+      "albumsData": [
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Dark Before Dawn"
+        },
+        { "artistName": "Breaking Benjamin",
+          "albumName": "Ember"
+        },
+        { "artistName": "The Score",
+          "albumName": "Stay"
+        },
+        { "artistName": "Queens of the Stone Age",
+          "albumName": "...Like Clockwork"
+        },
+        { "artistName": "Thrice",
+          "albumName": "To Be Everywhere Is to Be Nowhere"
+        },
+        { "artistName": "BRKN LOVE",
+          "albumName": "Black Box"
+        }
+      ]
+    },
+    {
+      "subMetal": "Sludge metal",
+      "descMetal": "Sludge metal is a heavy and slow style of metal music that is characterized by its distorted guitars, heavily downtuned riffs, and deep, often shouted vocals. It often incorporates elements of doom, stoner, and hardcore punk.",
+      "albumsData": [
+        { "artistName": "Mastodon",
+          "albumName": "Leviathan"
+        },
+        { "artistName": "Mastodon",
+          "albumName": "Remission"
+        },
+        { "artistName": "Mastodon",
+          "albumName": "Cold Dark Place"
+        },
+        { "artistName": "High on Fire",
+          "albumName": "Death Is This Communion"
+        },
+        { "artistName": "Baroness",
+          "albumName": "Gold & Grey"
+        },
+        { "artistName": "Baroness",
+          "albumName": "Purple"
         }
       ]
     },
@@ -651,23 +675,23 @@
       "subMetal": "Stoner metal",
       "descMetal": "Stoner metal features distorted and downtuned guitar riffs, a heavy emphasis on rhythm, and psychedelic and bluesy elements. It often has a slow and repetitive sound, and lyrics are often focused on drug use and counterculture.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Windhand",
+          "albumName": "Grief's Infernal Flower"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Windhand",
+          "albumName": "Soma"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Monolord",
+          "albumName": "Empress Rising"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Monolord",
+          "albumName": "Empress Rising"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Monolord",
+          "albumName": "Rust"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Monolord",
+          "albumName": "Vænir"
         }
       ]
     }
