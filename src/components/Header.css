@@ -72,6 +72,7 @@
 
   .menu a {
     color: var(--white);
+    font-family: 'PT Sans', sans-serif;
   }
 
   .menu.open {

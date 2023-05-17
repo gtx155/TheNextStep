@@ -4,10 +4,10 @@
       "descMetal": "Alternative metal is a heavy and aggressive style of music that blends elements of alternative rock and metal. It features distorted guitar riffs, intense drumming, and strong vocals, with a focus on melody and emotion.",
       "albumsData": [
         { "artistName": "Avenged Sevenfold",
-          "albumName": "Avenged Sevenfold"
+          "albumName": "Nightmare"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Avenged Sevenfold",
+          "albumName": "The Stage"
         },
         { "artistName": "Deftones",
           "albumName": "Diamond Eyes"
@@ -54,8 +54,8 @@
         { "artistName": "Burzum",
           "albumName": "Filosofem"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Batushka",
+          "albumName": "Litourgiya"
         },
         { "artistName": "The Score",
           "albumName": "Stay"
@@ -150,8 +150,8 @@
         { "artistName": "Morbid Angel",
           "albumName": "Kingdoms Disdained"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Beyond Creation",
+          "albumName": "Earthborn Evolution"
         },
         { "artistName": "The Score",
           "albumName": "Stay"
@@ -174,14 +174,14 @@
         { "artistName": "Periphery",
           "albumName": "Periphery IV: HAIL STAN"
         },
-        { "artistName": "Periphery",
-          "albumName": "Periphery III: Select Difficulty"
-        },
         { "artistName": "Monuments",
           "albumName": "In Stasis"
         },
         { "artistName": "Monuments",
           "albumName": "The Amanuensis"
+        },
+        { "artistName": "Veil of Maya",
+          "albumName": "False Idol"
         },
         { "artistName": "VOLA",
           "albumName": "Witness"
@@ -219,8 +219,8 @@
       "subMetal": "Drone metal",
       "descMetal": "Drone is characterized by long, sustained notes with minimalistic melody or rhythm. Heavy use of distortion and effects. Often slow and repetitive, creating a trance-like effect on the listener. Can be unsettling and meditative.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Bell Witch",
+          "albumName": "Mirror Reaper"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -264,38 +264,14 @@
       ]
     },
     {
-      "subMetal": "Glam metal",
-      "descMetal": "Glam metal is known for its flashy and extravagant image, with catchy hooks, melodic riffs, and soaring vocals. It's often associated with a party and hedonistic vibe, featuring glamorized fashion and showmanship, and a focus on catchy, anthemic choruses.",
-      "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
-        },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
-        }
-      ]
-    },
-    {
       "subMetal": "Groove metal",
       "descMetal": "Groove metal is defined by its heavy, groovy riffs and rhythmic patterns, often incorporating elements of thrash, hardcore, and groove. It's known for its aggressive and intense sound, with a focus on head-banging rhythms and powerful, commanding vocals.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Pantera",
+          "albumName": "Vulgar Display of Power"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Machine Head",
+          "albumName": "The Blackening"
         },
         { "artistName": "The Score",
           "albumName": "Stay"
@@ -315,23 +291,23 @@
       "subMetal": "Heavy metal",
       "descMetal": "Heavy metal is characterized by its loud and heavy sound, with distorted guitars, powerful drumming, and often high-pitched vocals. It's known for its rebellious and energetic attitude, and typically features virtuosic instrumental solos.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Iron Maiden",
+          "albumName": "Brave New World"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Iron Maiden",
+          "albumName": "Dance of Death"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Black Sabbath",
+        "albumName": "Paranoid"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Black Sabbath",
+        "albumName": "Heaven and Hell"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Visigoth",
+          "albumName": "Conqueror's Oath"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Judas Priest",
+          "albumName": "Defenders of the Faith"
         }
       ]
     },
@@ -339,8 +315,8 @@
       "subMetal": "Industrial metal",
       "descMetal": "Industrial metal is characterized by a blend of heavy metal and industrial music, featuring harsh, distorted guitars, pounding drums, electronic and mechanical sounds, and often aggressive or confrontational lyrics. The sound is often dark, abrasive, and industrial in nature, with a focus on atmosphere and texture.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Rammstein",
+          "albumName": "Sehnsucht"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -408,30 +384,6 @@
       ]
     },
     {
-      "subMetal": "Nu metal",
-      "descMetal": "Nu metal is a fusion of heavy metal and alternative rock, characterized by down-tuned guitars, hip-hop and rap influences, and often angst-ridden lyrics. It features a blend of harsh and melodic elements with emphasis on groove and rhythm.",
-      "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
-        },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
-        }
-      ]
-    },
-    {
       "subMetal": "Post-metal",
       "descMetal": "Post-metal is characterized by slow and atmospheric instrumentals, and a focus on creating ambiance and texture through the music. It often incorporates elements from post-rock and doom metal.",
       "albumsData": [
@@ -459,23 +411,23 @@
       "subMetal": "Power metal",
       "descMetal": "Power metal is characterized by fast-paced, melodic guitar riffs, high-pitched vocals, and lyrics that often explore fantasy and mythology. The overall feel is energetic and uplifting, with a focus on storytelling and epic themes.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Dream Evil",
+          "albumName": "Dragonslayer"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Dream Evil",
+          "albumName": "The Book Of Heavy Metal"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Sabaton",
+          "albumName": "The War to End All Wars"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Sabaton",
+          "albumName": "Heroes"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Beast in Black",
+          "albumName": "From Hell With Love"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Blind Guardian",
+          "albumName": "Nightfall in Middle Earth"
         }
       ]
     },
@@ -483,23 +435,23 @@
       "subMetal": "Progressive metal",
       "descMetal": "Progressive metal combines complex and technical musicianship with elements of various musical styles, incorporating intricate guitar work, complex time signatures, and dynamic song structures. The music can be melodic and atmospheric, exploring diverse themes and pushing the boundaries of conventional metal.",
       "albumsData": [
-        { "artistName": "Tool",
-          "albumName": "10,000 Days"
-        },
-        { "artistName": "Tool",
-          "albumName": "Lateralus"
-        },
         { "artistName": "Caligula's Horse",
           "albumName": "In Contact"
         },
         { "artistName": "Caligula's Horse",
           "albumName": "The Tide, The Thief & River's End"
         },
+        { "artistName": "Tool",
+          "albumName": "Lateralus"
+        },
         { "artistName": "Soen",
           "albumName": "Lykaia Revisited"
         },
         { "artistName": "Soen",
           "albumName": "Cognitive"
+        },
+        { "artistName": "Wheel",
+          "albumName": "Resident Human"
         }
       ]
     },
@@ -507,23 +459,23 @@
       "subMetal": "Progressive death metal",
       "descMetal": "Progressive death metal typically features complex rhythms, technical musicianship, and unconventional song structures. The music often has a dark and aggressive feel, with elements of progressive rock and death metal blending together to create a unique sound.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Gojira",
+          "albumName": "Magma"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Gojira",
+          "albumName": "From Mars to Sirius"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Black Crown Initiate",
+          "albumName": "Violent Portraits of Doomed Escape"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Amorphis",
+          "albumName": "Under The Red Cloud"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Dark Tranquillity",
+          "albumName": "Atoma"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Rivers of Nihil",
+          "albumName": "Where Owls Know My Name"
         }
       ]
     },
@@ -555,8 +507,8 @@
       "subMetal": "Speed metal",
       "descMetal": "Speed metal is characterized by its fast tempos, intricate guitar riffs, and aggressive vocals. It has a high-energy and often technical sound that is focused on delivering fast, intense, and memorable songs.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "DragonForce",
+          "albumName": "Reaching Into Infinity"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -579,32 +531,8 @@
       "subMetal": "Symphonic metal",
       "descMetal": "Symphonic metal incorporates symphonic elements, such as orchestral instruments and choirs, with heavy metal. The music typically features grandiose and theatrical arrangements with operatic vocals and melodic instrumentation.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
-        },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
-        }
-      ]
-    },
-    {
-      "subMetal": "Technical death metal",
-      "descMetal": "Technical death metal is characterized by intricate, often dissonant guitar riffs and complex drum patterns. The music is usually played at a very high tempo and features frequent time signature changes and technical instrumentation. The overall feel is intense, challenging, and highly technical.",
-      "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Avantasia",
+          "albumName": "The Metal Opera"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -627,14 +555,14 @@
       "subMetal": "Technical deathcore",
       "descMetal": "Technical deathcore is a fusion of deathcore and technical death metal, featuring complex and intricate musicianship, downtuned and heavy guitar riffs, brutal breakdowns, and fast-paced drumming, often accompanied by guttural vocals and occasional clean singing.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Rings of Saturn",
+          "albumName": "Lugal Ki En"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Rings of Saturn",
+          "albumName": "Ultu Ulla"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Rings of Saturn",
+          "albumName": "Embryonic Anomaly Remake (Instrumental)"
         },
         { "artistName": "Queens of the Stone Age",
           "albumName": "...Like Clockwork"
@@ -651,23 +579,23 @@
       "subMetal": "Thrash metal",
       "descMetal": "Fast, aggressive, and heavy. Characterized by fast tempos, complex guitar riffs, and aggressive vocals. Emphasizes on aggression, speed, and intense riffing with a punk influence.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Metallica",
+          "albumName": "Ride the Lightning"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Metallica",
+          "albumName": "Master of Puppets"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Megadeth",
+          "albumName":  "Rust In Peace"
         },
-        { "artistName": "Queens of the Stone Age",
-          "albumName": "...Like Clockwork"
+        { "artistName": "Megadeth",
+          "albumName":  "Dystopia"
         },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "High on Fire",
+          "albumName":  "Electric Messiah"
         },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Kreator",
+          "albumName":  "Gods Of Violence"
         }
       ]
     },
@@ -676,13 +604,13 @@
       "descMetal": "Stoner metal features distorted and downtuned guitar riffs, a heavy emphasis on rhythm, and psychedelic and bluesy elements. It often has a slow and repetitive sound, and lyrics are often focused on drug use and counterculture.",
       "albumsData": [
         { "artistName": "Windhand",
-          "albumName": "Grief's Infernal Flower"
+          "albumName":  "Grief's Infernal Flower"
+        },
+        { "artistName": "Windhand",
+          "albumName":  "Eternal Return"
         },
         { "artistName": "Windhand",
           "albumName": "Soma"
-        },
-        { "artistName": "Monolord",
-          "albumName": "Empress Rising"
         },
         { "artistName": "Monolord",
           "albumName": "Empress Rising"

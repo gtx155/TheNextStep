@@ -4,9 +4,6 @@
     "descRock": "Alternative rock is non-conformist approach to music-making, incorporating elements from various genres and emphasizing creative expression, experimentation, and a DIY ethos.",
     "albumsData": [
       { "artistName": "Royal Blood",
-        "albumName": "Royal Blood"
-      },
-      { "artistName": "Royal Blood",
         "albumName": "Typhoons"
       },
       { "artistName": "Toothgrinder",
@@ -14,6 +11,9 @@
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
+      },
+      { "artistName": "Port Noir",
+        "albumName": "Any Way The Wind Carries"
       },
       { "artistName": "Gone Is Gone",
         "albumName": "Echolocation"
@@ -36,11 +36,11 @@
       { "artistName": "Graveyard",
         "albumName": "Hisingen Blues"
       },
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
+      { "artistName": "Rival Sons",
+        "albumName": "Feral Roots"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "The Blue Stones",
+        "albumName": "Hidden Gems"
       },
       { "artistName": "BRKN LOVE",
         "albumName": "Black Box"
@@ -54,14 +54,14 @@
       { "artistName": "Starset",
         "albumName": "HORIZONS"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Project Vela",
+        "albumName": "Kenopsia"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Caskets",
+        "albumName": "Lost Souls"
       },
-      { "artistName": "Queens of the Stone Age",
-        "albumName": "...Like Clockwork"
+      { "artistName": "The Faim",
+        "albumName": "Saints of the Sinners"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -159,12 +159,12 @@
       { "artistName": "Saint Asonia",
         "albumName": "Flawed Design"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "Keith Wallen",
+        "albumName": "This World or the Next"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
-      }
+      { "artistName": "Foreigner",
+        "albumName": "4"
+    }
     ]
     },
     {
@@ -258,8 +258,8 @@
       { "artistName": "W.E.T.",
         "albumName": "Earthrage"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Y&T",
+        "albumName": "Facemelter"
       }
     ]
     },
@@ -348,11 +348,11 @@
       { "artistName": "Makari",
         "albumName": "Hyperreal"
       },
+      { "artistName": "Valiant Hearts",
+        "albumName": "Odyssey"
+      },
       { "artistName": "Dayshell",
         "albumName": "Mr. Pain"
-      },
-      { "artistName": "Finch",
-        "albumName": "Say Hello to Sunshine"
       },
       { "artistName": "Circa Survive",
         "albumName": "The Amulet"
@@ -363,8 +363,8 @@
       "subRock": "Post-rock",
       "descRock": "Post-rock is characterized by its atmospheric, instrumental sound that often builds and evolves over time. It features expansive, textured arrangements, often without vocals, and creates a sense of emotional depth and cinematic landscapes through its instrumental compositions.",
       "albumsData": [
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
+      { "artistName": "Alcest",
+        "albumName": "Écailles de lune"
       },
       { "artistName": "Intervals",
         "albumName": "The Shape of Colour"
