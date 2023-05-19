@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
 
 
+
 :root {
     --white: #FBFEF9;
     --purple: #743ad5;
@@ -44,11 +45,13 @@ body {
     font-weight: bold;
     margin: 0;
     font-family: 'PT Sans', sans-serif;
+
 }
 
 .subTitle {
     color: var(--white);
     font-family: 'PT Sans', sans-serif;
+
     margin-top: 0;
     font-size: 20px;
     opacity: 80%;
@@ -73,6 +76,7 @@ body {
     text-align: center;
     padding: 5px;
     font-family: 'PT Sans', sans-serif;
+
     font-size: 1.5em;
 }
 
