@@ -4,12 +4,14 @@ import Footer from "/src/components/Footer";
 import RockData from "/src/Rock.json";
 import MetalData from "/src/Metal.json";
 import './StyleAlbums.css'
+import GoToTopButton from "../components/GoToTopButton";
 
 export function AlbumsPage (){
     return (
         <>
             <Header />
             <GenresTextDataLoader />
+            <GoToTopButton />
             <Footer page={"albums"}/>
         </>
     )

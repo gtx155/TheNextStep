@@ -94,3 +94,8 @@ body {
     border-right: 0;
     border-top: 0;
   }
+
+.only-custom {
+    border-top: 0;
+    border-right: 0;
+  }

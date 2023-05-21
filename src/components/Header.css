@@ -98,7 +98,7 @@
   .menu li {
     list-style: none;
     padding: 10px;
-    border-bottom: 1px solid;
+    border-bottom: 2px solid;
     border-image: linear-gradient(to right, #743ad5, #d53a9d) 1;    
   }
 
