@@ -30,20 +30,20 @@
       { "artistName": "The Black Keys",
         "albumName": "\"Let's Rock\""
       },
+      { "artistName": "The Blue Stones",
+        "albumName": "Hidden Gems"
+      },
+      { "artistName": "Rival Sons",
+        "albumName": "Feral Roots"
+      },
       { "artistName": "Graveyard",
         "albumName": "Peace"
       },
       { "artistName": "Graveyard",
         "albumName": "Hisingen Blues"
       },
-      { "artistName": "Rival Sons",
-        "albumName": "Feral Roots"
-      },
-      { "artistName": "The Blue Stones",
-        "albumName": "Hidden Gems"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Dirty Honey",
+        "albumName": "Dirty Honey"
       }
     ]
   },
@@ -84,8 +84,8 @@
       { "artistName": "Have a Nice Life",
         "albumName": "Deathconsciousness"
       },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
+      { "artistName": "Lunatic Soul",
+        "albumName": "Lunatic Soul"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -126,8 +126,8 @@
       { "artistName": "Paradise Lost",
         "albumName": "One Second (20th Anniversary) [Deluxe Remastered]"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Paradise Lost",
+        "albumName": "Symbol of Life"
       },
       { "artistName": "The Score",
         "albumName": "Stay"
@@ -270,20 +270,20 @@
       { "artistName": "The Sea Within",
         "albumName": "The Sea Within"
       },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
+      { "artistName": "Sylvan",
+        "albumName": "Artificial Paradise"
       },
-      { "artistName": "The Score",
-        "albumName": "Stay"
+      { "artistName": "Sylvan",
+        "albumName": "Posthumous Silence"
       },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
+      { "artistName": "Airbag",
+        "albumName": "The Greatest Show on Earth"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "Airbag",
+        "albumName": "Disconnected"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Flying Colors",
+        "albumName": "Third Degree"
       }
     ]
     },
@@ -300,8 +300,8 @@
       { "artistName": "Slint",
         "albumName": "Spiderland"
       },
-      { "artistName": "Have a Nice Life",
-        "albumName": "Sea of Worry"
+      { "artistName": "Plini",
+        "albumName": "Sweet Nothings"
       },
       { "artistName": "Thrice",
         "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -312,23 +312,23 @@
     ]
     },
     {
-      "subRock": "Post-grunge",
-      "descRock": "Post-grunge is known for its heavy and aggressive sound, inspired by grunge rock. It features distorted guitar riffs, powerful vocals, and often deals with themes of angst, introspection, and emotional turmoil.",
+      "subRock": "Grunge",
+      "descRock": "Grunge is characterized by its raw and gritty sound, combining elements of punk, hard rock, and alternative music. It features distorted guitars, angsty lyrics, and a sense of melancholy and disillusionment. The feel is often introspective, rebellious, and emotionally charged.",
       "albumsData": [
+      { "artistName": "Audioslave",
+        "albumName": "Audioslave"
+      },
+      { "artistName": "Alice in Chains",
+        "albumName": "Dirt"
+      },
+      { "artistName": "The Smashing Pumpkins",
+        "albumName": "Siamese Dream"
+      },
+      { "artistName": "Nirvana",
+        "albumName": "Nevermind"
+      },
       { "artistName": "Seether",
         "albumName": "Poison the Parish"
-      },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
-      },
-      { "artistName": "The Score",
-        "albumName": "Stay"
-      },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
       },
       { "artistName": "BRKN LOVE",
         "albumName": "Black Box"
@@ -468,14 +468,14 @@
       { "artistName": "Greenleaf",
         "albumName": "Rise Above The Meadow"
       },
-      { "artistName": "The Sword",
-        "albumName": "Apocryphon"
+      { "artistName": "Greenleaf",
+        "albumName": "Trails & Passes"
       },
       { "artistName": "Uncle Acid & the Deadbeats",
         "albumName": "Blood Lust"
       },
-      { "artistName": "Red Fang",
-        "albumName": "Whales and Leeches"
+      { "artistName": "The Sword",
+        "albumName": "Apocryphon"
       }
     ]
     },

@@ -3,11 +3,12 @@
     bottom: 30px;
     right: 15px;
     display: none;
-    background-color: var(--dark_grey);
+    background-color: #35363eCC;
     color: var(--white);
     border-radius: 5px 5px 0 0;
     padding: 10px;
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: 300;
     cursor: pointer;
     z-index: 9999;
     transition: opacity 0.3s;

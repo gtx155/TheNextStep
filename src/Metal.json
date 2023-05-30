@@ -7,19 +7,19 @@
           "albumName": "Nightmare"
         },
         { "artistName": "Avenged Sevenfold",
+          "albumName": "Avenged Sevenfold"
+        },
+        { "artistName": "Avenged Sevenfold",
           "albumName": "The Stage"
+        },
+        { "artistName": "Trivium",
+          "albumName": "Silence In The Snow"
         },
         { "artistName": "Deftones",
           "albumName": "Diamond Eyes"
         },
         { "artistName": "Deftones",
           "albumName": "Gore"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -126,14 +126,14 @@
         { "artistName": "Paradise Lost",
           "albumName": "The Plague Within"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Paradise Lost",
+          "albumName": "Medusa"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Swallow the Sun",
+          "albumName": "Songs From The North I, II & III"
         },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
+        { "artistName": "Swallow the Sun",
+          "albumName": "When A Shadow Is Forced Into The Light"
         },
         { "artistName": "Thrice",
           "albumName": "To Be Everywhere Is to Be Nowhere"
@@ -249,8 +249,8 @@
         { "artistName": "Eluveitie",
           "albumName": "Everything Remains"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
+        { "artistName": "Cellar Darling",
+          "albumName": "The Spell"
         },
         { "artistName": "Plini",
           "albumName": "Sweet Nothings"
@@ -308,30 +308,6 @@
         },
         { "artistName": "Judas Priest",
           "albumName": "Defenders of the Faith"
-        }
-      ]
-    },
-    {
-      "subMetal": "Industrial metal",
-      "descMetal": "Industrial metal is characterized by a blend of heavy metal and industrial music, featuring harsh, distorted guitars, pounding drums, electronic and mechanical sounds, and often aggressive or confrontational lyrics. The sound is often dark, abrasive, and industrial in nature, with a focus on atmosphere and texture.",
-      "albumsData": [
-        { "artistName": "Rammstein",
-          "albumName": "Sehnsucht"
-        },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -531,11 +507,11 @@
       "subMetal": "Symphonic metal",
       "descMetal": "Symphonic metal incorporates symphonic elements, such as orchestral instruments and choirs, with heavy metal. The music typically features grandiose and theatrical arrangements with operatic vocals and melodic instrumentation.",
       "albumsData": [
-        { "artistName": "Avantasia",
-          "albumName": "The Metal Opera"
+        { "artistName": "Kamelot",
+          "albumName": "Epica"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
+        { "artistName": "Kamelot",
+          "albumName": "Haven"
         },
         { "artistName": "The Score",
           "albumName": "Stay"

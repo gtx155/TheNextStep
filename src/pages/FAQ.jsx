@@ -11,7 +11,8 @@ export function FAQ (){
             <h1>Why are the albums ordered in this way?</h1>
         </div>
         <div className="genreDescBox border-gradient border-gradient-purple only-bottom">
-            <p>Albums are generally ordered from the most to least accessible.</p>
+            <p>Albums are generally ordered from the most to least accessible left to right and top to bottom.
+                <br />• Accessibility refers to the greater likelihood of enjoying the music if you're not familiar with the genre or specific albums.</p>
         </div>
     </div>
     <div className="genreOne-content-container border-gradient border-gradient-purple">
@@ -38,7 +39,15 @@ export function FAQ (){
             <p>Beef filet mignon pork belly commodo lorem ea aute eiusmod do.</p>
         </div>
     </div>
-        <Footer page={"home"}/>
+    <div className="genreOne-content-container border-gradient border-gradient-purple">
+        <div className="genreTilte border-gradient border-gradient-purple only-bottom">
+            <h1>Bacon ipsum dolor amet pork andouille dolor picanha proident ball tip spare ribs?</h1>
+        </div>
+        <div className="genreDescBox border-gradient border-gradient-purple only-bottom">
+            <p>Beef filet mignon pork belly commodo lorem ea aute eiusmod do.</p>
+        </div>
+    </div>
+        <Footer page={"albums"}/>
         </>
     )
 }
