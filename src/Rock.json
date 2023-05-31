@@ -62,12 +62,6 @@
       },
       { "artistName": "The Faim",
         "albumName": "Saints of the Sinners"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
       }
     ]
     },
@@ -78,41 +72,17 @@
       { "artistName": "The Dear Hunter",
         "albumName": "Act III: Life and Death"
       },
+      { "artistName": "Children of Nova",
+        "albumName": "Impossible Landscape"
+      },
+      { "artistName": "Lunatic Soul",
+        "albumName": "Lunatic Soul"
+      },
       { "artistName": "Have a Nice Life",
         "albumName": "Sea of Worry"
       },
       { "artistName": "Have a Nice Life",
         "albumName": "Deathconsciousness"
-      },
-      { "artistName": "Lunatic Soul",
-        "albumName": "Lunatic Soul"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
-      }
-    ]
-    },
-    {
-      "subRock": "Glam rock",
-      "descRock": "Glam rock has distorted guitars, synthesizers, and a strong rhythm section. It's known for image and style, with outrageous costumes and high-energy, danceable music that exudes glamour and escapism.",
-      "albumsData": [
-      { "artistName": "Twisted Sister",
-        "albumName": "Stay Hungry"
-      },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
-      },
-      { "artistName": "The Score",
-        "albumName": "Stay"
-      },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
       },
       { "artistName": "BRKN LOVE",
         "albumName": "Black Box"
@@ -124,22 +94,10 @@
       "descRock": "Gothic rock is dark, moody music that explores melancholic and macabre themes, with deep vocals, melodic guitar lines, and eerie synthesizers or keyboards. It creates a brooding atmosphere filled with mystery and drama.",
       "albumsData": [
       { "artistName": "Paradise Lost",
-        "albumName": "One Second (20th Anniversary) [Deluxe Remastered]"
+        "albumName": "One Second (20th Anniversary)"
       },
       { "artistName": "Paradise Lost",
         "albumName": "Symbol of Life"
-      },
-      { "artistName": "The Score",
-        "albumName": "Stay"
-      },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
       }
     ]
     },
@@ -168,50 +126,26 @@
     ]
     },
     {
-      "subRock": "Hardcore punk",
-      "descRock": "Hardcore punk is a fast and aggressive. It features short, fast-paced songs with distorted guitars, intense drumming, and shouted vocals. Hardcore punk has politically charged lyrics addressing social issues. The music is raw, powerful, and urgent, with an intense and energetic feel.",
-      "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
-      },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
-      },
-      { "artistName": "The Score",
-        "albumName": "Stay"
-      },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
-      }
-    ]
-    },
-    {
       "subRock": "Indie rock",
       "descRock": "Indie rock is a known for it's DIY ethos and diverse styles. It's often guitar-driven and introspective with a raw, authentic feel. The sound ranges from acoustic melodies to catchy rock anthems. Indie rock values creativity, individuality, and artistic expression, with a non-conformist, alternative feel.",
       "albumsData": [
       { "artistName": "Interpol",
         "albumName": "Marauder"
       },
+      { "artistName": "Arcade Fire",
+        "albumName": "The Suburbs"
+      },
+      { "artistName": "Cage the Elephant",
+        "albumName": "Tell Me I'm Pretty"
+      },
+      { "artistName": "The Strokes",
+        "albumName": "Is This It?"
+      },
       { "artistName": "Editors",
         "albumName": "An End Has a Start"
       },
       { "artistName": "Band of Horses",
         "albumName": "Everything All the Time"
-      },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
       }
     ]
     },
@@ -231,11 +165,11 @@
       { "artistName": "Intervals",
         "albumName": "The Shape of Colour"
       },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
+      { "artistName": "Intervals",
+        "albumName": "The Way Forward"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "The Omnific",
+        "albumName": "The Mind's Eye"
       }
     ]
     },
@@ -330,8 +264,8 @@
       { "artistName": "Seether",
         "albumName": "Poison the Parish"
       },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
+      { "artistName": "Soundgarden",
+        "albumName": "Superunknown"
       }
     ]
     },
@@ -428,30 +362,6 @@
       },
       { "artistName": "Uncle Acid & the Deadbeats",
         "albumName": "Wasteland"
-      }
-    ]
-    },
-    {
-      "subRock": "Shoegaze",
-      "descRock": "Shoegaze is a style of music that heavily uses dreamy, ethereal soundscapes, prominent use of distortion, and soft vocals that blend into the instrumentation. The music creates a hazy and introspective atmosphere.",
-      "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
-      },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
-      },
-      { "artistName": "The Score",
-        "albumName": "Stay"
-      },
-      { "artistName": "Plini",
-        "albumName": "Sweet Nothings"
-      },
-      { "artistName": "Thrice",
-        "albumName": "To Be Everywhere Is to Be Nowhere"
-      },
-      { "artistName": "BRKN LOVE",
-        "albumName": "Black Box"
       }
     ]
     },

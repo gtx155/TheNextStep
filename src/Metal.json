@@ -27,8 +27,8 @@
       "subMetal": "Avant-garde metal",
       "descMetal": "Avant-garde metal is a genre that blends elements of experimental music with heavy metal. It is known for its unconventional structures, complex instrumentation, and often features unusual time signatures and dissonant sounds. The music has a unique and experimental feel that can be challenging and provocative.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Arcturus",
+          "albumName": "The Sham Mirrors"
         },
         { "artistName": "Breaking Benjamin",
           "albumName": "Ember"
@@ -51,44 +51,20 @@
       "subMetal": "Black metal",
       "descMetal": "Black metal is characterized by its dark, aggressive sound with fast, tremolo-picked guitar riffs, harsh vocals, and blast beats. It often features themes of darkness, nature, and occultism. The music has a raw, chaotic, and atmospheric feel, with a sense of darkness and mystique.",
       "albumsData": [
-        { "artistName": "Burzum",
-          "albumName": "Filosofem"
+        { "artistName": "Ne Obliviscaris",
+          "albumName": "Urn"
+        },
+        { "artistName": "Ne Obliviscaris",
+          "albumName": "Portal of I"
+        },
+        { "artistName": "Borknagar",
+          "albumName": "Winter Thrice"
         },
         { "artistName": "Batushka",
           "albumName": "Litourgiya"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
-        }
-      ]
-    },
-    {
-      "subMetal": "Death 'n' roll",
-      "descMetal": "Death 'n' roll is a fusion of death metal with rock 'n' roll. It features aggressive, distorted guitar riffs and growled vocals, combined with a groove and rhythmic feel reminiscent of classic rock.",
-      "albumsData": [
-        { "artistName": "Carcass",
-          "albumName": "Swansong"
-        },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Burzum",
+          "albumName": "Filosofem"
         },
         { "artistName": "BRKN LOVE",
           "albumName": "Black Box"
@@ -134,12 +110,6 @@
         },
         { "artistName": "Swallow the Sun",
           "albumName": "When A Shadow Is Forced Into The Light"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -150,17 +120,17 @@
         { "artistName": "Morbid Angel",
           "albumName": "Kingdoms Disdained"
         },
+        { "artistName": "Rivers of Nihil",
+          "albumName": "Monarchy"
+        },
+        { "artistName": "Black Crown Initiate",
+          "albumName": "Selves We Cannot Forgive"
+        },
+        { "artistName": "Opeth",
+          "albumName": "My Arms, Your Hearse"
+        },
         { "artistName": "Beyond Creation",
           "albumName": "Earthborn Evolution"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
         },
         { "artistName": "BRKN LOVE",
           "albumName": "Black Box"
@@ -270,17 +240,17 @@
         { "artistName": "Pantera",
           "albumName": "Vulgar Display of Power"
         },
+        { "artistName": "Pantera",
+          "albumName": "Far Beyond Driven"
+        },
+        { "artistName": "Machine Head",
+          "albumName": "Catharsis"
+        },
         { "artistName": "Machine Head",
           "albumName": "The Blackening"
         },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
+        { "artistName": "Machine Head",
+          "albumName": "Unto the Locust"
         },
         { "artistName": "BRKN LOVE",
           "albumName": "Black Box"
@@ -486,20 +456,8 @@
         { "artistName": "DragonForce",
           "albumName": "Reaching Into Infinity"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "DragonForce",
+          "albumName": "Sonic Firestorm"
         }
       ]
     },
@@ -512,18 +470,6 @@
         },
         { "artistName": "Kamelot",
           "albumName": "Haven"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -535,19 +481,13 @@
           "albumName": "Lugal Ki En"
         },
         { "artistName": "Rings of Saturn",
+          "albumName": "Gidim"
+        },
+        { "artistName": "Rings of Saturn",
           "albumName": "Ultu Ulla"
         },
         { "artistName": "Rings of Saturn",
           "albumName": "Embryonic Anomaly Remake (Instrumental)"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
