@@ -26,6 +26,20 @@
     font-family: 'PT Sans', sans-serif;
 }
 
+.footer-absolute {
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;   /* Height of the footer */
+    width: 100%;
+    background: var(--purple);
+    color: var(--white);
+    font-size: 0.75rem;
+    font-family: 'PT Sans', sans-serif;
+}
+
 @media (width < 900px) {
     .footer-home {
         position: relative;

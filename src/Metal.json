@@ -29,21 +29,6 @@
       "albumsData": [
         { "artistName": "Arcturus",
           "albumName": "The Sham Mirrors"
-        },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -60,14 +45,14 @@
         { "artistName": "Borknagar",
           "albumName": "Winter Thrice"
         },
+        { "artistName": "Borknagar",
+          "albumName": "True North"
+        },
         { "artistName": "Batushka",
           "albumName": "Litourgiya"
         },
         { "artistName": "Burzum",
           "albumName": "Filosofem"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -95,8 +80,8 @@
         }
       ]
     },
-      {
-        "subMetal": "Death-doom",
+    {
+      "subMetal": "Death-doom",
       "descMetal": "Death-doom is a fusion of death metal and doom metal, often featuring slow, heavy, and melancholic passages with guttural growled vocals. It creates a dark, gloomy atmosphere with a blend of brutality and mournful melodies.",
       "albumsData": [
         { "artistName": "Paradise Lost",
@@ -121,19 +106,19 @@
           "albumName": "Kingdoms Disdained"
         },
         { "artistName": "Rivers of Nihil",
-          "albumName": "Monarchy"
+          "albumName": "The Work"
         },
-        { "artistName": "Black Crown Initiate",
-          "albumName": "Selves We Cannot Forgive"
+        { "artistName": "Rivers of Nihil",
+          "albumName": "Monarchy"
         },
         { "artistName": "Opeth",
           "albumName": "My Arms, Your Hearse"
         },
+        { "artistName": "Cattle Decapitation",
+          "albumName": "Death Atlas"
+        },
         { "artistName": "Beyond Creation",
           "albumName": "Earthborn Evolution"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -192,20 +177,8 @@
         { "artistName": "Bell Witch",
           "albumName": "Mirror Reaper"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Sunn O)))",
+          "albumName": "Life Metal"
         }
       ]
     },
@@ -219,17 +192,11 @@
         { "artistName": "Eluveitie",
           "albumName": "Everything Remains"
         },
+        { "artistName": "Eluveitie",
+          "albumName": "Evocation II - Pantheon"
+        },
         { "artistName": "Cellar Darling",
           "albumName": "The Spell"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -248,12 +215,6 @@
         },
         { "artistName": "Machine Head",
           "albumName": "The Blackening"
-        },
-        { "artistName": "Machine Head",
-          "albumName": "Unto the Locust"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
         }
       ]
     },
@@ -294,14 +255,8 @@
         { "artistName": "Killswitch Engage",
           "albumName": "Disarm The Descent"
         },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Killswitch Engage",
+          "albumName": "The End of Heartache"
         }
       ]
     },
@@ -333,23 +288,11 @@
       "subMetal": "Post-metal",
       "descMetal": "Post-metal is characterized by slow and atmospheric instrumentals, and a focus on creating ambiance and texture through the music. It often incorporates elements from post-rock and doom metal.",
       "albumsData": [
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Dark Before Dawn"
+        { "artistName": "Isis",
+          "albumName": "Oceanic"
         },
-        { "artistName": "Breaking Benjamin",
-          "albumName": "Ember"
-        },
-        { "artistName": "The Score",
-          "albumName": "Stay"
-        },
-        { "artistName": "Plini",
-          "albumName": "Sweet Nothings"
-        },
-        { "artistName": "Thrice",
-          "albumName": "To Be Everywhere Is to Be Nowhere"
-        },
-        { "artistName": "BRKN LOVE",
-          "albumName": "Black Box"
+        { "artistName": "Isis",
+          "albumName": "Panopticon"
         }
       ]
     },
@@ -466,10 +409,10 @@
       "descMetal": "Symphonic metal incorporates symphonic elements, such as orchestral instruments and choirs, with heavy metal. The music typically features grandiose and theatrical arrangements with operatic vocals and melodic instrumentation.",
       "albumsData": [
         { "artistName": "Kamelot",
-          "albumName": "Epica"
+          "albumName": "Haven"
         },
         { "artistName": "Kamelot",
-          "albumName": "Haven"
+          "albumName": "Epica"
         }
       ]
     },

@@ -26,10 +26,10 @@ export function Header() {
       <nav className={`menu ${isOpen ? 'open' : 'desktop'}`}>
         <ul>
           <li>
-            <NavLink to='/'>About</NavLink>
+            <NavLink to='/About'>About</NavLink>
           </li>
           <li>
-            <NavLink to='/'>Contacts</NavLink>
+            <NavLink to='/Contacts'>Contacts</NavLink>
           </li>
           <li>
             <NavLink to='/FAQ'>FAQ</NavLink>

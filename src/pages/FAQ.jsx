@@ -5,7 +5,7 @@ export function FAQ (){
     return (
     <>
     <Header />
-    <h1 style={{color: 'white', textAlign: 'center'}}>FAQ</h1>
+    <h1 style={{color: '#FBFEF9', textAlign: 'center'}}>FAQ</h1>
     <div className="genreOne-content-container border-gradient border-gradient-purple">
         <div className="genreTilte border-gradient border-gradient-purple only-bottom">
             <h1>Why are the albums ordered in this way?</h1>
@@ -17,10 +17,18 @@ export function FAQ (){
     </div>
     <div className="genreOne-content-container border-gradient border-gradient-purple">
         <div className="genreTilte border-gradient border-gradient-purple only-bottom">
-            <h1>Bacon ipsum dolor amet pork andouille dolor picanha proident ball tip spare ribs?</h1>
+            <h1>Why isn't X genre featured?</h1>
         </div>
         <div className="genreDescBox border-gradient border-gradient-purple only-bottom">
-            <p>Beef filet mignon pork belly commodo lorem ea aute eiusmod do.</p>
+            <p>It's mostly because either I'm not a big fan of it or I haven't really listened to it enough.</p>
+        </div>
+    </div>
+    <div className="genreOne-content-container border-gradient border-gradient-purple">
+        <div className="genreTilte border-gradient border-gradient-purple only-bottom">
+            <h1>Will there be more album additions?</h1>
+        </div>
+        <div className="genreDescBox border-gradient border-gradient-purple only-bottom">
+            <p>Not in the near future.</p>
         </div>
     </div>
         <Footer page={"home"}/>
