@@ -192,30 +192,6 @@
     ]
     },
     {
-      "subRock": "Neo-progressive rock",
-      "descRock": "Neo-progressive rock draws from classic progressive rock, featuring intricate instrumentals, complex time signatures, and thought-provoking lyrics. Incorporating elements of jazz, classical, and symphonic music, it has a polished and technical production style. It's introspective, grandiose, and ambitious, with a focus on storytelling and dramatic crescendos.",
-      "albumsData": [
-      { "artistName": "The Sea Within",
-        "albumName": "The Sea Within"
-      },
-      { "artistName": "Sylvan",
-        "albumName": "Artificial Paradise"
-      },
-      { "artistName": "Sylvan",
-        "albumName": "Posthumous Silence"
-      },
-      { "artistName": "Airbag",
-        "albumName": "The Greatest Show on Earth"
-      },
-      { "artistName": "Airbag",
-        "albumName": "Disconnected"
-      },
-      { "artistName": "Flying Colors",
-        "albumName": "Third Degree"
-      }
-    ]
-    },
-    {
       "subRock": "Noise rock",
       "descRock": "Noise rock is a raw, aggressive genre with dissonant sound, unconventional guitar techniques, shouted/screamed vocals, and a focus on chaos and experimentation, pushing traditional rock boundaries.",
       "albumsData": [
@@ -318,6 +294,72 @@
     ]
     },
     {
+      "subRock": "Heavy progressive rock",
+      "descRock": "Heavy progressive rock features complex and intricate musical arrangements with heavy, distorted guitars, intricate rhythms, and often epic song structures. The music can be intense and dramatic, with a mix of melodic and heavy elements, and a progressive approach to songwriting and instrumentation.",
+      "albumsData": [
+      { "artistName": "Karnivool",
+        "albumName": "Sound Awake"
+      },
+      { "artistName": "Karnivool",
+        "albumName": "Asymmetry"
+      },
+      { "artistName": "Leprous",
+        "albumName": "Malina"
+      },
+      { "artistName": "Riverside",
+        "albumName": "Wasteland"
+      },
+      { "artistName": "The Contortionist",
+        "albumName": "Clairvoyant"
+      },
+      { "artistName": "Klone",
+        "albumName": "Le Grand Voyage"
+      }
+    ]
+    },
+    {
+      "subRock": "Crossover progressive rock",
+      "descRock": "Crossover progressive rock combines elements of different musical genres, blending rock with elements of jazz, classical, world music, and more. The music often features intricate instrumentation, diverse vocal styles, and a fusion of musical influences, creating a unique and progressive sound.",
+      "albumsData": [
+      { "artistName": "Thank You Scientist",
+        "albumName": "Terraformer"
+      },
+      { "artistName": "Thank You Scientist",
+        "albumName": "Maps of Non-Existent Places"
+      },
+      { "artistName": "Coheed and Cambria",
+        "albumName": "Vaxis – Act I: The Unheavenly Creatures"
+      },
+      { "artistName": "Coheed and Cambria",
+        "albumName": "Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness"
+      }
+    ]
+    },
+    {
+      "subRock": "Neo-progressive rock",
+      "descRock": "Neo-progressive rock draws from classic progressive rock, featuring intricate instrumentals, complex time signatures, and thought-provoking lyrics. Incorporating elements of jazz, classical, and symphonic music, it has a polished and technical production style. It's introspective, grandiose, and ambitious, with a focus on storytelling and dramatic crescendos.",
+      "albumsData": [
+      { "artistName": "The Sea Within",
+        "albumName": "The Sea Within"
+      },
+      { "artistName": "Sylvan",
+        "albumName": "Artificial Paradise"
+      },
+      { "artistName": "Sylvan",
+        "albumName": "Posthumous Silence"
+      },
+      { "artistName": "Airbag",
+        "albumName": "The Greatest Show on Earth"
+      },
+      { "artistName": "Airbag",
+        "albumName": "Disconnected"
+      },
+      { "artistName": "Flying Colors",
+        "albumName": "Third Degree"
+      }
+    ]
+    },
+    {
       "subRock": "Psychedelic rock",
       "descRock": "Psychedelic rock features distorted guitar, dreamy vocals, and trippy lyrics that create an otherworldly and hallucinogenic atmosphere. It often incorporates unconventional song structures, instrumentation, and production techniques, evoking a sense of exploration and experimentation.",
       "albumsData": [
@@ -362,48 +404,6 @@
       },
       { "artistName": "The Sword",
         "albumName": "Apocryphon"
-      }
-    ]
-    },
-    {
-      "subRock": "Heavy progressive rock",
-      "descRock": "Heavy progressive rock features complex and intricate musical arrangements with heavy, distorted guitars, intricate rhythms, and often epic song structures. The music can be intense and dramatic, with a mix of melodic and heavy elements, and a progressive approach to songwriting and instrumentation.",
-      "albumsData": [
-      { "artistName": "Karnivool",
-        "albumName": "Sound Awake"
-      },
-      { "artistName": "Karnivool",
-        "albumName": "Asymmetry"
-      },
-      { "artistName": "Leprous",
-        "albumName": "Malina"
-      },
-      { "artistName": "Riverside",
-        "albumName": "Wasteland"
-      },
-      { "artistName": "The Contortionist",
-        "albumName": "Clairvoyant"
-      },
-      { "artistName": "Klone",
-        "albumName": "Le Grand Voyage"
-      }
-    ]
-    },
-    {
-      "subRock": "Crossover progressive rock",
-      "descRock": "Crossover progressive rock combines elements of different musical genres, blending rock with elements of jazz, classical, world music, and more. The music often features intricate instrumentation, diverse vocal styles, and a fusion of musical influences, creating a unique and progressive sound.",
-      "albumsData": [
-      { "artistName": "Thank You Scientist",
-        "albumName": "Terraformer"
-      },
-      { "artistName": "Thank You Scientist",
-        "albumName": "Maps of Non-Existent Places"
-      },
-      { "artistName": "Coheed and Cambria",
-        "albumName": "Vaxis – Act I: The Unheavenly Creatures"
-      },
-      { "artistName": "Coheed and Cambria",
-        "albumName": "Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness"
       }
     ]
     }

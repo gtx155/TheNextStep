@@ -57,6 +57,90 @@
       ]
     },
     {
+      "subMetal": "Death metal",
+      "descMetal": "Death metal is known for its aggressive, fast-paced music, guttural growled vocals, and technical instrumentation. It often explores themes of morbidity, violence, and darkness, with intense, brutal, and uncompromising soundscapes that evoke a sense of brutality and aggression.",
+      "albumsData": [
+        { "artistName": "Morbid Angel",
+          "albumName": "Kingdoms Disdained"
+        },
+        { "artistName": "Rivers of Nihil",
+          "albumName": "The Work"
+        },
+        { "artistName": "Rivers of Nihil",
+          "albumName": "Monarchy"
+        },
+        { "artistName": "Opeth",
+          "albumName": "My Arms, Your Hearse"
+        },
+        { "artistName": "Cattle Decapitation",
+          "albumName": "Death Atlas"
+        },
+        { "artistName": "Beyond Creation",
+          "albumName": "Earthborn Evolution"
+        }
+      ]
+    },
+    {
+      "subMetal": "Melodic death metal",
+      "descMetal": "Melodic death metal combines death metal's aggression and brutality with melodic and often symphonic elements, featuring growled vocals, intricate guitar work, and catchy melodies. The sound is often dynamic, melodic, and intense, with a blend of harshness and melody.",
+      "albumsData": [
+        { "artistName": "In Flames",
+          "albumName": "Clayman"
+        },
+        { "artistName": "In Flames",
+          "albumName": "Sounds of a Playground Fading"
+        },
+        { "artistName": "Killswitch Engage",
+          "albumName": "Disarm The Descent"
+        },
+        { "artistName": "Killswitch Engage",
+          "albumName": "The End of Heartache"
+        }
+      ]
+    },
+    {
+      "subMetal": "Progressive death metal",
+      "descMetal": "Progressive death metal typically features complex rhythms, technical musicianship, and unconventional song structures. The music often has a dark and aggressive feel, with elements of progressive rock and death metal blending together to create a unique sound.",
+      "albumsData": [
+        { "artistName": "Gojira",
+          "albumName": "Magma"
+        },
+        { "artistName": "Gojira",
+          "albumName": "From Mars to Sirius"
+        },
+        { "artistName": "Black Crown Initiate",
+          "albumName": "Violent Portraits of Doomed Escape"
+        },
+        { "artistName": "Amorphis",
+          "albumName": "Under The Red Cloud"
+        },
+        { "artistName": "Dark Tranquillity",
+          "albumName": "Atoma"
+        },
+        { "artistName": "Rivers of Nihil",
+          "albumName": "Where Owls Know My Name"
+        }
+      ]
+    },
+    {
+      "subMetal": "Death-doom",
+      "descMetal": "Death-doom is a fusion of death metal and doom metal, often featuring slow, heavy, and melancholic passages with guttural growled vocals. It creates a dark, gloomy atmosphere with a blend of brutality and mournful melodies.",
+      "albumsData": [
+        { "artistName": "Paradise Lost",
+          "albumName": "The Plague Within"
+        },
+        { "artistName": "Paradise Lost",
+          "albumName": "Medusa"
+        },
+        { "artistName": "Swallow the Sun",
+          "albumName": "Songs From The North I, II & III"
+        },
+        { "artistName": "Swallow the Sun",
+          "albumName": "When A Shadow Is Forced Into The Light"
+        }
+      ]
+    },
+    {
       "subMetal": "Deathcore",
       "descMetal": "Deathcore is an extreme metal subgenre that typically features elements of death metal and metalcore. It is characterized by its heavy breakdowns, blast beats, growled vocals, and overall aggression.",
       "albumsData": [
@@ -81,44 +165,20 @@
       ]
     },
     {
-      "subMetal": "Death-doom",
-      "descMetal": "Death-doom is a fusion of death metal and doom metal, often featuring slow, heavy, and melancholic passages with guttural growled vocals. It creates a dark, gloomy atmosphere with a blend of brutality and mournful melodies.",
+      "subMetal": "Technical deathcore",
+      "descMetal": "Technical deathcore is a fusion of deathcore and technical death metal, featuring complex and intricate musicianship, downtuned and heavy guitar riffs, brutal breakdowns, and fast-paced drumming, often accompanied by guttural vocals and occasional clean singing.",
       "albumsData": [
-        { "artistName": "Paradise Lost",
-          "albumName": "The Plague Within"
+        { "artistName": "Rings of Saturn",
+          "albumName": "Lugal Ki En"
         },
-        { "artistName": "Paradise Lost",
-          "albumName": "Medusa"
+        { "artistName": "Rings of Saturn",
+          "albumName": "Gidim"
         },
-        { "artistName": "Swallow the Sun",
-          "albumName": "Songs From The North I, II & III"
+        { "artistName": "Rings of Saturn",
+          "albumName": "Ultu Ulla"
         },
-        { "artistName": "Swallow the Sun",
-          "albumName": "When A Shadow Is Forced Into The Light"
-        }
-      ]
-    },
-    {
-      "subMetal": "Death metal",
-      "descMetal": "Death metal is known for its aggressive, fast-paced music, guttural growled vocals, and technical instrumentation. It often explores themes of morbidity, violence, and darkness, with intense, brutal, and uncompromising soundscapes that evoke a sense of brutality and aggression.",
-      "albumsData": [
-        { "artistName": "Morbid Angel",
-          "albumName": "Kingdoms Disdained"
-        },
-        { "artistName": "Rivers of Nihil",
-          "albumName": "The Work"
-        },
-        { "artistName": "Rivers of Nihil",
-          "albumName": "Monarchy"
-        },
-        { "artistName": "Opeth",
-          "albumName": "My Arms, Your Hearse"
-        },
-        { "artistName": "Cattle Decapitation",
-          "albumName": "Death Atlas"
-        },
-        { "artistName": "Beyond Creation",
-          "albumName": "Earthborn Evolution"
+        { "artistName": "Rings of Saturn",
+          "albumName": "Embryonic Anomaly Remake (Instrumental)"
         }
       ]
     },
@@ -243,24 +303,6 @@
       ]
     },
     {
-      "subMetal": "Melodic death metal",
-      "descMetal": "Melodic death metal combines death metal's aggression and brutality with melodic and often symphonic elements, featuring growled vocals, intricate guitar work, and catchy melodies. The sound is often dynamic, melodic, and intense, with a blend of harshness and melody.",
-      "albumsData": [
-        { "artistName": "In Flames",
-          "albumName": "Clayman"
-        },
-        { "artistName": "In Flames",
-          "albumName": "Sounds of a Playground Fading"
-        },
-        { "artistName": "Killswitch Engage",
-          "albumName": "Disarm The Descent"
-        },
-        { "artistName": "Killswitch Engage",
-          "albumName": "The End of Heartache"
-        }
-      ]
-    },
-    {
       "subMetal": "Metalcore",
       "descMetal": "Metalcore blends elements of metal and hardcore punk, featuring breakdowns, screamed and clean vocals, chugging guitars, and catchy hooks. The sound is aggressive, energetic, and often incorporates melodic and atmospheric elements for an intense and dynamic musical experience.",
       "albumsData": [
@@ -345,30 +387,6 @@
       ]
     },
     {
-      "subMetal": "Progressive death metal",
-      "descMetal": "Progressive death metal typically features complex rhythms, technical musicianship, and unconventional song structures. The music often has a dark and aggressive feel, with elements of progressive rock and death metal blending together to create a unique sound.",
-      "albumsData": [
-        { "artistName": "Gojira",
-          "albumName": "Magma"
-        },
-        { "artistName": "Gojira",
-          "albumName": "From Mars to Sirius"
-        },
-        { "artistName": "Black Crown Initiate",
-          "albumName": "Violent Portraits of Doomed Escape"
-        },
-        { "artistName": "Amorphis",
-          "albumName": "Under The Red Cloud"
-        },
-        { "artistName": "Dark Tranquillity",
-          "albumName": "Atoma"
-        },
-        { "artistName": "Rivers of Nihil",
-          "albumName": "Where Owls Know My Name"
-        }
-      ]
-    },
-    {
       "subMetal": "Sludge metal",
       "descMetal": "Sludge metal is a heavy and slow style of metal music that is characterized by its distorted guitars, heavily downtuned riffs, and deep, often shouted vocals. It often incorporates elements of doom, stoner, and hardcore punk.",
       "albumsData": [
@@ -413,24 +431,6 @@
         },
         { "artistName": "Kamelot",
           "albumName": "Epica"
-        }
-      ]
-    },
-    {
-      "subMetal": "Technical deathcore",
-      "descMetal": "Technical deathcore is a fusion of deathcore and technical death metal, featuring complex and intricate musicianship, downtuned and heavy guitar riffs, brutal breakdowns, and fast-paced drumming, often accompanied by guttural vocals and occasional clean singing.",
-      "albumsData": [
-        { "artistName": "Rings of Saturn",
-          "albumName": "Lugal Ki En"
-        },
-        { "artistName": "Rings of Saturn",
-          "albumName": "Gidim"
-        },
-        { "artistName": "Rings of Saturn",
-          "albumName": "Ultu Ulla"
-        },
-        { "artistName": "Rings of Saturn",
-          "albumName": "Embryonic Anomaly Remake (Instrumental)"
         }
       ]
     },

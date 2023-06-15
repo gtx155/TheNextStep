@@ -1,0 +1,10 @@
+.CA-Title {
+    color:  #FBFEF9;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.ContactsContainer {
+    display: flex;
+    justify-content: center;
+}
