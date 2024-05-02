@@ -5,7 +5,7 @@ export function FAQ (){
     return (
     <>
     <Header />
-    <h1 style={{color: '#FBFEF9', textAlign: 'center'}}>FAQ</h1>
+    <h1 style={{color: '#FBFEF9', textAlign: 'center', fontFamily: 'PT Sans'}}>FAQ</h1>
     <div className="genreOne-content-container border-gradient border-gradient-purple">
         <div className="genreTilte border-gradient border-gradient-purple only-bottom">
             <h1>Why are the albums ordered in this way?</h1>
